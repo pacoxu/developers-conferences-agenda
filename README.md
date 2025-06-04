@@ -13,7 +13,7 @@ TODO
 
 ### 6月
 
-* 7日:  1. [PyTorch Day China 2025](https://pytorchdaychina2025.sched.com/) 北京
+* 7日:  [PyTorch Day China 2025](https://pytorchdaychina2025.sched.com/) 北京
 * 10-11日: [KubeCon + CloudNativeCon 中国 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-china/) - 香港 <a href="https://sessionize.com/kubecon-cloudnativecon-china-2025/"><img alt="CFP KubeCon + CloudNativeCon China 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2025&color=red"></a>
 * 12日 [OSPO Summit](https://www.bagevent.com/event/ospo-summit-2025) 北京
 * 16-17: [KubeCon + CloudNativeCon 日本 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) - 日本东京 <a href="https://sessionize.com/kubecon-cloudnativecon-japan-2025/"><img alt="CFP KubeCon + CloudNativeCon Japan 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-February-2025&color=red"></a>
