@@ -82,4 +82,5 @@ TODO
 - [KCD 中国往届视频](https://space.bilibili.com/1274679632/lists?sid=2842495)
 - 开放原子基金会[活动列表](https://www.openatom.org/events)
 - 思否[活动列表](https://segmentfault.com/events)
+- PyTorch 基金会[活动列表](https://pytorch.org/events/)
 
