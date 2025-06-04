@@ -34,6 +34,7 @@ TODO
 ### 9月
 
 * 13-14日: [GOSIM Hangzhou 2025](https://hangzhou2025.gosim.org/) 杭州 <a href="https://cfp.gosim.org/"><img alt="CFP GOSIM Hangzhou 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-July-2025&color=green"></a>
+* 待定 Rust 中国大会 （[去年](https://rustcc.cn/2024conf/) 9月7-8日 上海）
 
 ### 10月
 
@@ -61,7 +62,6 @@ TODO
 
 * 待定 KubeCon + CloudNativeCon 日本 2026
 * 待定 KubeCon + CloudNativeCon 印度 2026
-* 待定 Rust 中国大会 （[去年](https://rustcc.cn/2024conf/) 9月7-8日 上海）
 
 ### 10月
 
