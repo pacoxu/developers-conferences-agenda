@@ -54,8 +54,11 @@ TODO
 
 ### 6-8月
 
-* 待定 KubeCon + CloudNativeCon 日本 2026
-* 待定 KubeCon + CloudNativeCon 印度 2026
+* 待定 [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/)
+
+### 7月
+
+* 29-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) 日本横滨
 
 ### 10月
 
