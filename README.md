@@ -17,6 +17,7 @@ TODO
 * 12日: [VueConf 2025](https://dev.events/conferences/vue-conf-cn-2025-y2wttooq) 深圳
 * 23-24日:[ 开放原子开源生态大会 ](https://www.openatom.org/)北京
 * 25-27日: [CommunityOverCode Asia 2025](https://asia.communityovercode.org/) - 北京 <a href="https://sessionize.com/communityovercode-asia-2025"><img alt="CFP CommunityOverCode Asia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-April-2025&color=red"></a>
+* 26-28日：[WAIC 2025](https://aiii.global/waic-2025/) 世界人工智能大会，上海世博中心
 
 ### 8月
 
