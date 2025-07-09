@@ -48,6 +48,9 @@ TODO
 
 ## 2026
 
+ - KCD 北京 申请中
+ - KCD 广州 申请中
+
 ### 3月
 
 * 23-26日: [KubeCon + CloudNativeCon 欧洲 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) - 荷兰阿姆斯特丹
