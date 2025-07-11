@@ -13,7 +13,7 @@ TODO
 
 ### 7月
 
-* 5日:  [KCD 台北 + COSCUP X RubyConf](https://coscup.org/2025/) 中国台湾台北
+* 5日:  [KCD 台北](https://community.cncf.io/events/details/cncf-kcd-taiwan-presents-kcd-taipei-2025/) 中国台湾台北
 * 12日: [VueConf 2025](https://dev.events/conferences/vue-conf-cn-2025-y2wttooq) 深圳
 * 23-24日:[ 开放原子开源生态大会 ](https://www.openatom.org/)北京
 * 25-27日: [CommunityOverCode Asia 2025](https://asia.communityovercode.org/) - 北京 <a href="https://sessionize.com/communityovercode-asia-2025"><img alt="CFP CommunityOverCode Asia 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-April-2025&color=red"></a>
