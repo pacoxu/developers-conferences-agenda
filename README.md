@@ -39,7 +39,7 @@ TODO
 ### 11月
 
 * 11-13日: KubeCon 北美 2025 - 亚特兰大 <a href="https://sessionize.com/kubecon-cloudnativecon-north-america-2025/"><img alt="CFP KubeCon + CloudNativeCon NA 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-May-2025&color=red"></a>
-* 14日: KCD 杭州 2025 + OpenInfra - 杭州
+* 14日: KCD 杭州 2025 + OpenInfra - 杭州 （预计 7-8月 CFP 启动）
 * 时间待定：开源社开源年会（[去年](https://kaiyuanshe.cn/activity/COSCon-2024)是11月2-3日 北京）
 
 ### 12月
@@ -51,6 +51,9 @@ TODO
 
  - KCD 北京 申请中
  - KCD 广州 申请中
+ - KCD 西安 申请中
+ - KCD 上海 筹备中
+ - KCD 杭州 筹备中
 
 ### 3月
 
