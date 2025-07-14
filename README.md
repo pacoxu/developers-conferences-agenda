@@ -1,6 +1,6 @@
 # china-developers-conferences-agenda
 受 [developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) 启发，主要列一下中国开发者活动日程。
-- 关注点：开源、开发者、云原生
+- 关注点：开源、开发者、云原生、AI Infra
 - 以国内活动为主，也会涉及一些周边和国际大型活动
 
 TODO
