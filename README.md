@@ -23,6 +23,7 @@ TODO
 
 * 6-7日: [KubeCon + CloudNativeCon 印度 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/) - 印度海得拉巴
 * 13-14日: [Google I/O Connect 中国](https://ioconnectchina.googlecnapps.cn/intl/en_cn/) 上海
+* 22-23日: [AICon Shenzhen](https://aicon.infoq.cn/2025/shenzhen) 深圳
 * 28-29日: 🧠 [AI_dev](https://events.linuxfoundation.org/ai-dev-europe/): Open Source GenAI & ML Summit Europe 2025 荷兰🇳🇱阿姆斯特丹
 
 ### 9月
@@ -46,6 +47,7 @@ TODO
 
 * 8-10日: [AI_dev: Open Source GenAI & ML Summit 日本 2025](https://events.linuxfoundation.org/ai-dev-japan-2025/)  - 日本东京
 * 8-10日: [Open Source Summit Japan 2025](https://events.linuxfoundation.org/open-source-summit-japan-2025/) - 日本东京
+* 19-20日: [AICon Beijing](https://aicon.infoq.cn/202512/beijing) - 北京
 
 ## 2026
 
