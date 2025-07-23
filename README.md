@@ -32,6 +32,7 @@ TODO
 
 ### 9月
 
+* 2-5日: [RustConf 2025](https://rustconf.com/) 西雅图 & Online
 * 6-7日: [PyCon Taiwan](https://tw.pycon.org/2025/en-us) - 台北
 * 13-14日: [GOSIM Hangzhou 2025](https://hangzhou2025.gosim.org/) 杭州
   * 同场活动: [Rust Global 大会](https://hangzhou2025.gosim.org/#spotlight)。
