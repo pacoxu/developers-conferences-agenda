@@ -24,6 +24,7 @@ TODO
 ### 8月
 
 * 2日: [vLLM Meetup 北京站 ](https://mp.weixin.qq.com/s/wC3_CKEHC6WgXx-RfceM8g) - 北京
+* 2-3日: [CCF 中国开源大会](https://mp.weixin.qq.com/s/FcH_4gIWRJvqsm-b-N8TYg) - 上海
 * 6-7日: [KubeCon + CloudNativeCon 印度 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/) - 印度海得拉巴
 * 13-14日: [Google I/O Connect 中国](https://ioconnectchina.googlecnapps.cn/intl/en_cn/) 上海
 * 15-16日: [Product Manager Summit](https://dev.events/conferences/product-manager-summit-ff7aq7vc) - 北京
