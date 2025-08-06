@@ -67,7 +67,7 @@ TODO
 
 ### 6-8月
 
-* 待定 [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/)
+* 15-19日（具体日期待定） [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - 印度孟买
 
 ### 7月
 
