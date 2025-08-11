@@ -21,6 +21,7 @@ TODO
 * 13-14日: [Google I/O Connect 中国](https://ioconnectchina.googlecnapps.cn/intl/en_cn/) 上海
 * 15-16日: [Product Manager Summit](https://dev.events/conferences/product-manager-summit-ff7aq7vc) - 北京
 * 22-23日: [AICon Shenzhen](https://aicon.infoq.cn/2025/shenzhen) 深圳
+* 27日: [vLLM Meetup Singapore](https://www.sginnovate.com/event/vllm-sg-meet) - 新加坡
 * 28-29日: 🧠 [AI_dev](https://events.linuxfoundation.org/ai-dev-europe/): Open Source GenAI & ML Summit Europe 2025 荷兰🇳🇱阿姆斯特丹
 * 28-29日: [Bitcoin Asia 2025](https://dev.events/conferences/bitcoin-asia-2025-x2vp2eqt) - 香港
 
