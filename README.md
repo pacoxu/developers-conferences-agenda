@@ -25,6 +25,7 @@ TODO
 * 27日: [vLLM Meetup Singapore](https://www.sginnovate.com/event/vllm-sg-meet) - 新加坡
 * 28-29日: 🧠 [AI_dev](https://events.linuxfoundation.org/ai-dev-europe/): Open Source GenAI & ML Summit Europe 2025 荷兰🇳🇱阿姆斯特丹
 * 28-29日: [Bitcoin Asia 2025](https://dev.events/conferences/bitcoin-asia-2025-x2vp2eqt) - 香港
+* 30日: [Rust China Tour 深圳站](https://x.com/genedna/status/1956269515014332562) - 深圳 13:30-17:30
 * 30日: vLLM Meetup Shenzhen - 深圳 （[CFP](https://mp.weixin.qq.com/s/kcdCGu3oM-oOHI4w02aQPw) 截止8.22）
 
 ### 9月
