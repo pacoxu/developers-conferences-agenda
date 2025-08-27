@@ -46,7 +46,7 @@ TODO
 
 * 5日: [Open Source Summit KOREA](https://dev.events/conferences/open-source-summit-korea-mblrmtqm) - 韩国首尔
 * 11-13日: [KubeCon 北美 2025](https://kccncna2025.sched.com/) - 亚特兰大
-* 14日: KCD 杭州 2025 + OpenInfra - 杭州 （预计 7-8月 CFP 启动）
+* 15日: [KCD 杭州 2025 + OpenInfra China Days](https://sessionize.com/kcd-hangzhou-and-oicd-2025/) - 杭州 （CFP 截止 9月21日）
 * 时间待定：开源社开源年会（[去年](https://kaiyuanshe.cn/activity/COSCon-2024)是11月2-3日 北京）
 
 ### 12月
