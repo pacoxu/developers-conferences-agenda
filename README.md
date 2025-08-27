@@ -35,7 +35,6 @@ TODO
 * 13-14日: [GOSIM Hangzhou 2025](https://hangzhou2025.gosim.org/) 杭州
   * 同场活动: [Rust Global 大会](https://hangzhou2025.gosim.org/#spotlight)。
 * 20日:  [🐍 PyCon China 2025](https://cn.pycon.org/2025/) 上海对外经贸大学 <a href="https://jsj.top/f/bBjpo3"><img alt="CFP PyCon China 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-Sept-2025&color=green"></a>
-* 待定 开放原子开发者大会
 
 ### 10月
 
