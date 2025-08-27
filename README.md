@@ -68,6 +68,10 @@ TODO
 
 * 23-26日: [KubeCon + CloudNativeCon 欧洲 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) - 荷兰阿姆斯特丹
 
+### 5月
+
+* 时间待定: [Open Source Summit Europe 2026](https://events.linuxfoundation.org/open-source-summit-europe-2026/) - 欧洲
+
 ### 6-8月
 
 * 15-19日（具体日期待定） [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - 印度孟买
@@ -76,9 +80,17 @@ TODO
 
 * 29-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) 日本横滨
 
+### 9月
+
+* 时间待定: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan-2026/) - 日本
+
 ### 10月
 
 * 26-29日: [KubeCon + CloudNativeCon 北美 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - 美国洛杉矶
+
+### 11月
+
+* 时间待定: [Open Source Summit North America 2026](https://events.linuxfoundation.org/open-source-summit-north-america/) - 北美
 
 ## 2027
 
