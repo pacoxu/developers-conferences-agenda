@@ -13,21 +13,6 @@ TODO
 
 ## 2025
 
-### 8月
-
-* 2日: [vLLM Meetup 北京站 ](https://mp.weixin.qq.com/s/wC3_CKEHC6WgXx-RfceM8g) - 北京
-* 2-3日: [CCF 中国开源大会](https://mp.weixin.qq.com/s/FcH_4gIWRJvqsm-b-N8TYg) - 上海
-* 6-7日: [KubeCon + CloudNativeCon 印度 2025](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2025/) - 印度海得拉巴
-* 13-14日: [Google I/O Connect 中国](https://ioconnectchina.googlecnapps.cn/intl/en_cn/) 上海
-* 15-16日: [Product Manager Summit](https://dev.events/conferences/product-manager-summit-ff7aq7vc) - 北京
-* 22-23日: [AICon Shenzhen](https://aicon.infoq.cn/2025/shenzhen) 深圳
-* 23日: [vLLM Meetup Shanghai](https://www.huodongxing.com/event/5821205290700) - 上海
-* 27日: [vLLM Meetup Singapore](https://www.sginnovate.com/event/vllm-sg-meet) - 新加坡
-* 28-29日: 🧠 [AI_dev](https://events.linuxfoundation.org/ai-dev-europe/): Open Source GenAI & ML Summit Europe 2025 荷兰🇳🇱阿姆斯特丹
-* 28-29日: [Bitcoin Asia 2025](https://dev.events/conferences/bitcoin-asia-2025-x2vp2eqt) - 香港
-* 30日: [Rust China Tour 深圳站](https://x.com/genedna/status/1956269515014332562) - 深圳 13:30-17:30
-* 30日: [vLLM Meetup Shenzhen](https://www.huodongxing.com/event/2822647492600) - 深圳 
-
 ### 9月
 
 * 2-5日: [RustConf 2025](https://rustconf.com/) 西雅图 & Online
