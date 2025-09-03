@@ -40,7 +40,7 @@ TODO
 
 * 11-12日: [PyCon Hong Kong](https://pycon.hk/) 2025 - 香港
 * 22-23日: [PyTorch Conference 2025](https://events.linuxfoundation.org/pytorch-conference-2025/) - 美国洛杉矶
-* 25日: [vLLM Meetup Shanghai](https://mp.weixin.qq.com/s/NGWU_K8Nv1dCaWS_n14kgw) - 上海
+* 25日: [vLLM Meetup Shanghai](https://mp.weixin.qq.com/s/NGWU_K8Nv1dCaWS_n14kgw) - 上海 （CFP 截止 9月17日）
 
 ### 11月
 
