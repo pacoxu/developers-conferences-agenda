@@ -24,6 +24,7 @@ TODO
 ### 10月
 
 * 11-12日: [PyCon Hong Kong](https://pycon.hk/) 2025 - 香港
+* 17-19日: [OpenInfra Summit Europe 2025](https://openinfra.dev/summit/) - 巴黎萨克雷，法国
 * 22-23日: [PyTorch Conference 2025](https://events.linuxfoundation.org/pytorch-conference-2025/) - 美国洛杉矶
 * 25日: [vLLM Meetup Shanghai](https://mp.weixin.qq.com/s/NGWU_K8Nv1dCaWS_n14kgw) - 上海 （CFP 截止 9月17日）
 
@@ -32,7 +33,6 @@ TODO
 * 5日: [Open Source Summit KOREA](https://dev.events/conferences/open-source-summit-korea-mblrmtqm) - 韩国首尔
 * 11-13日: [KubeCon 北美 2025](https://kccncna2025.sched.com/) - 亚特兰大
 * 15日: [KCD 杭州 2025 + OpenInfra China Days](https://sessionize.com/kcd-hangzhou-and-oicd-2025/) - 杭州 （CFP 截止 9月21日）
-* 时间待定：[OpenInfra Summit Europe 2025](https://openinfra.dev/summit/) - 欧洲
 * 时间待定：开源社开源年会（[去年](https://kaiyuanshe.cn/activity/COSCon-2024)是11月2-3日 北京）
 
 ### 12月
