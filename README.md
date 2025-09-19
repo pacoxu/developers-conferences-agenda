@@ -32,6 +32,7 @@ TODO
 * 5日: [Open Source Summit KOREA](https://dev.events/conferences/open-source-summit-korea-mblrmtqm) - 韩国首尔
 * 11-13日: [KubeCon 北美 2025](https://kccncna2025.sched.com/) - 亚特兰大
 * 15日: [KCD 杭州 2025 + OpenInfra China Days](https://sessionize.com/kcd-hangzhou-and-oicd-2025/) - 杭州 （CFP 截止 9月21日）
+* 时间待定：[OpenInfra Summit Europe 2025](https://openinfra.dev/summit/) - 欧洲
 * 时间待定：开源社开源年会（[去年](https://kaiyuanshe.cn/activity/COSCon-2024)是11月2-3日 北京）
 
 ### 12月
@@ -56,8 +57,6 @@ TODO
 
 ### 5月
 
-* 时间待定: [Open Source Summit Europe 2026](https://events.linuxfoundation.org/open-source-summit-europe-2026/) - 欧洲
-
 ### 6-8月
 
 * 15-19日（具体日期待定） [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - 印度孟买
@@ -68,15 +67,19 @@ TODO
 
 ### 9月
 
-* 时间待定: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan-2026/) - 日本
-
 ### 10月
 
+* 7-9日: [Open Source Summit Europe 2026](https://events.linuxfoundation.org/open-source-summit-europe-2026/) - 布拉格，捷克
+* 20-21日: [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/) - 美国圣何塞
 * 26-29日: [KubeCon + CloudNativeCon 北美 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - 美国洛杉矶
 
 ### 11月
 
 * 时间待定: [Open Source Summit North America 2026](https://events.linuxfoundation.org/open-source-summit-north-america/) - 北美
+
+### 12月
+
+* 7-9日: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan-2026/) - 日本
 
 ## 2027
 
