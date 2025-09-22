@@ -56,7 +56,9 @@ TODO
 ### 3月
 
 * 16-19日: [NVIDIA GTC 2026](https://www.nvidia.com/gtc/) - 美国圣何塞
+* 19-20日: [Wasm I/O 2026](https://wasm.io/) - 西班牙巴塞罗那
 * 23-26日: [KubeCon + CloudNativeCon 欧洲 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) - 荷兰阿姆斯特丹
+  * 同场活动: [WasmCon 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/)
 
 ### 5月
 
