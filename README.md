@@ -40,7 +40,7 @@ TODO
 
 ### 12月
 
-* 8-10日: [AI_dev: Open Source GenAI & ML Summit 日本 2025](https://events.linuxfoundation.org/ai-dev-japan-2025/)  - 日本东京
+* 8-10日: [AI_dev: Open Source GenAI & ML Summit 日本 2025](https://events.linuxfoundation.org/ai-dev-japan-2025/)  - 日本东京 ([议程](https://ossjapan2025.sched.com/list/simple?iframe=no))
 * 8-10日: [Open Source Summit Japan 2025](https://events.linuxfoundation.org/open-source-summit-japan-2025/) - 日本东京
 * 8-11日: [IEEE International Conference on Big Data](https://dev.events/conferences/ieee-international-conference-on-big-data-3ys9dfyg) - 澳门
 * 12-13日: [C++ and System Software Summit](https://dev.events/conferences/c-and-system-software-summit-inoahwoe) - 北京
