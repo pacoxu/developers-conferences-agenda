@@ -40,6 +40,7 @@ TODO
 
 ## 2026
 
+ - KubeCon + CloudNativeCon China 2026 （筹备中）
  - KCD 上海 筹备中（如果kubecon在上海，大概率就没了）
  - KCD 杭州 筹备中
  - KCD 广州 申请中
@@ -58,7 +59,7 @@ TODO
 
 ### 6-8月
 
-* 15-19日（具体日期待定） [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - 印度孟买
+* 18-19日 [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - 印度孟买
 
 ### 7月
 
@@ -83,11 +84,14 @@ TODO
 
 ## 2027
 
-### March
+### 3月
 
 * 15-18: [KubeCon + CloudNativeCon 欧洲 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/) - 西班牙巴塞罗那
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/co-located-events/) - 包括各 CNCF 项目专场、SIG 会议、Observability Day、GitOps Summit 等
 
+### 10月
+
+* 6-7日: [PyTorch Conference 2027](https://events.linuxfoundation.org/pytorch-conference-2027/) - 美国圣何塞
 
 # 其他链接
 
