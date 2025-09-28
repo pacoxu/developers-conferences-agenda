@@ -52,8 +52,10 @@ TODO
 * 19-20日: [Wasm I/O 2026](https://wasm.io/) - 西班牙巴塞罗那
 * 21日: KCD Beijing - 北京
 * 23-26日: [KubeCon + CloudNativeCon 欧洲 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) - 荷兰阿姆斯特丹
-  * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cncf-hosted-co-located-events-overview/) - 包括ArgoCon 、BackstageCon、 CiliumCon 、Cloud Native Telco Day、 FluxCon、 KeycloakCon、Kubernetes AI Summit with Kubeflow、 Kubernetes on Edge Day 、KyvernoCon、 Observability Day 、Open Source SecurityCon 、Platform Engineering Day
+  * CFP 开启，截止2025年10月12日
+  * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cncf-hosted-co-located-events-overview/) - 包括ArgoCon 、BackstageCon、 CiliumCon 、Cloud Native Telco Day、 FluxCon、 KeycloakCon、Kubernetes AI Summit with Kubeflow、 Kubernetes on Edge Day 、KyvernoCon、 Observability Day 、Open Source SecurityCon 、Platform Engineering Day Co-Located Events CFP 截止11月2日
   * 同场活动: [WasmCon 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/)
+  * Maintainer Track 暂未开启
 
 ### 5月
 
