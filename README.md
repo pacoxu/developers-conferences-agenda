@@ -57,17 +57,13 @@ TODO
   * 同场活动: [WasmCon 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/)
   * Maintainer Track 暂未开启
 
-### 5月
-
-### 6-8月
+### 6月
 
 * 18-19日 [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - 印度孟买
 
 ### 7月
 
 * 29-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) 日本横滨
-
-### 9月
 
 ### 10月
 
