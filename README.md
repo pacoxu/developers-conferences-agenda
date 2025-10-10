@@ -24,6 +24,7 @@ TODO
 
 ### 11月
 
+* 1-2日: 2025 GOTC - AI 教育与人才培养论坛 [CFP](https://mp.weixin.qq.com/s/NWRgTQQZWRw-CkLmwZmVvg) CFP 截止日期：2025年10月24日（周五） - 北京
 * 5日: [Open Source Summit KOREA](https://dev.events/conferences/open-source-summit-korea-mblrmtqm) - 韩国首尔
 * 11-13日: [KubeCon 北美 2025](https://kccncna2025.sched.com/) - 亚特兰大
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-events-overview/) - 包括 ArgoCon 、BackstageCon、 CiliumCon 、Cloud Native + Kubernetes AI Day 、Cloud Native University、 Data on Kubernetes Day、 EnvoyCon 、FluxCon、 Istio Day 、Kubeflow Summit、Kubernetes on Edge Day、KyvernoCon、Observability Day、OpenFeature Summit、Open Source SecurityCon、OpenTofu Day、Platform Engineering Day、WasmCon
