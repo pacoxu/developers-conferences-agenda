@@ -43,11 +43,11 @@ TODO
 
 ## 2026
 
- - KubeCon + CloudNativeCon China 2026 （筹备中）
- - KCD 上海 筹备中（如果kubecon在上海，大概率就没了）
+ - KubeCon + CloudNativeCon China 2026 上海（时间确认中）
  - KCD 杭州 筹备中
  - KCD 广州 申请中
  - KCD 深圳 筹备中
+ - KCD 西安 retry
 
 ### 3月
 
@@ -66,6 +66,7 @@ TODO
 
 ### 7月
 
+* KubeCon China?
 * 29-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) 日本横滨
 
 ### 10月
