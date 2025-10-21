@@ -31,10 +31,10 @@ TODO
 * 11-13日: [KubeCon 北美 2025](https://kccncna2025.sched.com/) - 亚特兰大
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-events-overview/) - 包括 ArgoCon 、BackstageCon、 CiliumCon 、Cloud Native + Kubernetes AI Day 、Cloud Native University、 Data on Kubernetes Day、 EnvoyCon 、FluxCon、 Istio Day 、Kubeflow Summit、Kubernetes on Edge Day、KyvernoCon、Observability Day、OpenFeature Summit、Open Source SecurityCon、OpenTofu Day、Platform Engineering Day、WasmCon
 * 15日: [KCD 杭州 2025 + OpenInfra China Days](https://sessionize.com/kcd-hangzhou-and-oicd-2025/) - 杭州 （CFP 截止 9月21日）
-* 时间待定：开源社开源年会（[去年](https://kaiyuanshe.cn/activity/COSCon-2024)是11月2-3日 北京）
 
 ### 12月
 
+* 6-7日: COCCon'25 中国开源年会 by 开源社 - 北京
 * 8-10日: [AI_dev: Open Source GenAI & ML Summit 日本 2025](https://events.linuxfoundation.org/ai-dev-japan-2025/)  - 日本东京 ([议程](https://ossjapan2025.sched.com/list/simple?iframe=no))
 * 8-10日: [Open Source Summit Japan 2025](https://events.linuxfoundation.org/open-source-summit-japan-2025/) - 日本东京
 * 8-11日: [IEEE International Conference on Big Data](https://dev.events/conferences/ieee-international-conference-on-big-data-3ys9dfyg) - 澳门
