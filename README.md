@@ -40,6 +40,7 @@ TODO
 * 8-11日: [IEEE International Conference on Big Data](https://dev.events/conferences/ieee-international-conference-on-big-data-3ys9dfyg) - 澳门
 * 12-13日: [C++ and System Software Summit](https://dev.events/conferences/c-and-system-software-summit-inoahwoe) - 北京
 * 19-20日: [AICon Beijing](https://aicon.infoq.cn/202512/beijing) - 北京
+* 20日: [Ray Forward 2025](https://mp.weixin.qq.com/s/598ilLInApANHvAvfMxuWA) - 北京（议题征集截止：11月9日）
 
 ## 2026
 
