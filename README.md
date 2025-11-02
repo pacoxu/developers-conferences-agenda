@@ -28,6 +28,7 @@ TODO
 * 1日: [vLLM Meetup Beijing](https://mp.weixin.qq.com/s/Kn3WerdAhH6XKLI5DQA2jg) - 北京
 * 1-2日: 2025 GOTC - AI 教育与人才培养论坛 [CFP](https://mp.weixin.qq.com/s/NWRgTQQZWRw-CkLmwZmVvg) CFP 截止日期：2025年10月24日（周五） - 北京
 * 5日: [Open Source Summit KOREA](https://dev.events/conferences/open-source-summit-korea-mblrmtqm) - 韩国首尔
+* 7日: [大模型推理性能优化研讨会](https://x.com/xu_paco/status/1984900937916538982) 火山引擎联合 SGLang、NVIDIA - 上海新江湾广场 T2 A 号楼
 * 11-13日: [KubeCon 北美 2025](https://kccncna2025.sched.com/) - 亚特兰大
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-events-overview/) - 包括 ArgoCon 、BackstageCon、 CiliumCon 、Cloud Native + Kubernetes AI Day 、Cloud Native University、 Data on Kubernetes Day、 EnvoyCon 、FluxCon、 Istio Day 、Kubeflow Summit、Kubernetes on Edge Day、KyvernoCon、Observability Day、OpenFeature Summit、Open Source SecurityCon、OpenTofu Day、Platform Engineering Day、WasmCon
 * 15日: [KCD 杭州 2025 + OpenInfra China Days](https://sessionize.com/kcd-hangzhou-and-oicd-2025/) - 杭州 （CFP 截止 9月21日）
