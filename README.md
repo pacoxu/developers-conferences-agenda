@@ -18,7 +18,7 @@ TODO
 ### 11月
 
 * 1日: [vLLM Meetup Beijing](https://mp.weixin.qq.com/s/Kn3WerdAhH6XKLI5DQA2jg) - 北京
-* 1-2日: 2025 GOTC - AI 教育与人才培养论坛 [CFP](https://mp.weixin.qq.com/s/NWRgTQQZWRw-CkLmwZmVvg) CFP 截止日期：2025年10月24日（周五） - 北京
+* 1-2日: 2025 GOTC - AI 教育与人才培养论坛 [CFP](https://mp.weixin.qq.com/s/NWRgTQQZWRw-CkLmwZmVvg) - 北京
 * 5日: [Open Source Summit KOREA](https://dev.events/conferences/open-source-summit-korea-mblrmtqm) - 韩国首尔
 * 7日: [大模型推理性能优化研讨会](https://x.com/xu_paco/status/1984900937916538982) 火山引擎联合 SGLang、NVIDIA - 上海新江湾广场 T2 A 号楼
 * 11-13日: [KubeCon 北美 2025](https://kccncna2025.sched.com/) - 亚特兰大
