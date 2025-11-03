@@ -19,11 +19,10 @@ TODO
 
 * 1日: [vLLM Meetup Beijing](https://mp.weixin.qq.com/s/Kn3WerdAhH6XKLI5DQA2jg) - 北京
 * 1-2日: 2025 GOTC - AI 教育与人才培养论坛 [CFP](https://mp.weixin.qq.com/s/NWRgTQQZWRw-CkLmwZmVvg) - 北京
-* 5日: [Open Source Summit KOREA](https://dev.events/conferences/open-source-summit-korea-mblrmtqm) - 韩国首尔
-* 7日: [大模型推理性能优化研讨会](https://x.com/xu_paco/status/1984900937916538982) 火山引擎联合 SGLang、NVIDIA - 上海新江湾广场 T2 A 号楼
+* 7日: [大模型推理性能优化研讨会](https://x.com/xu_paco/status/1984900937916538982) 火山引擎联合 SGLang、NVIDIA - 上海
 * 11-13日: [KubeCon 北美 2025](https://kccncna2025.sched.com/) - 亚特兰大
-  * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-events-overview/) - 包括 ArgoCon 、BackstageCon、 CiliumCon 、Cloud Native + Kubernetes AI Day 、Cloud Native University、 Data on Kubernetes Day、 EnvoyCon 、FluxCon、 Istio Day 、Kubeflow Summit、Kubernetes on Edge Day、KyvernoCon、Observability Day、OpenFeature Summit、Open Source SecurityCon、OpenTofu Day、Platform Engineering Day、WasmCon
-* 15日: [KCD 杭州 2025 + OpenInfra China Days](https://sessionize.com/kcd-hangzhou-and-oicd-2025/) - 杭州 （CFP 截止 9月21日）
+  * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-events-overview/)
+* 15日: [KCD 杭州 + OpenInfra Days China 2025](https://community.cncf.io/events/details/cncf-kcd-hangzhou-presents-kcd-hangzhou-openinfra-days-china-2025/) - 杭州
 
 ### 12月
 
@@ -37,7 +36,6 @@ TODO
 
 ## 2026
 
- - KubeCon + CloudNativeCon China 2026 上海（时间确认中）
  - KCD 杭州 筹备中
  - KCD 广州 申请中
  - KCD 深圳 筹备中
@@ -49,10 +47,9 @@ TODO
 * 19-20日: [Wasm I/O 2026](https://wasm.io/) - 西班牙巴塞罗那
 * 21日: KCD Beijing - 北京
 * 23-26日: [KubeCon + CloudNativeCon 欧洲 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) - 荷兰阿姆斯特丹
-  * CFP 开启，截止2025年10月12日
-  * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cncf-hosted-co-located-events-overview/) - 包括ArgoCon 、BackstageCon、 CiliumCon 、Cloud Native Telco Day、 FluxCon、 KeycloakCon、Kubernetes AI Summit with Kubeflow、 Kubernetes on Edge Day 、KyvernoCon、 Observability Day 、Open Source SecurityCon 、Platform Engineering Day Co-Located Events CFP 截止11月2日
-  * 同场活动: [WasmCon 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/wasmcon/)
-  * Maintainer Track 暂未开启
+  * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cncf-hosted-co-located-events-overview/)
+  * Maintainer Track [CFP](https://sessionize.com/project-benefits-kubecon-eu-2026) 截止12月14日
+  * Maintainer Summit [CFP](https://sessionize.com/maintainer-summit-eu-2026) 截止12月14日
 
 ### 6月
 
@@ -60,7 +57,7 @@ TODO
 
 ### 7月
 
-* KubeCon China?
+* KubeCon + CloudNativeCon China Shanghai？
 * 29-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) 日本横滨
 
 ### 10月
