@@ -57,8 +57,12 @@ TODO
 
 ### 7月
 
-* KubeCon + CloudNativeCon China Shanghai？
 * 29-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) 日本横滨
+
+### 9月
+
+* **8-9日: [KubeCon + CloudNativeCon + OpenInfra Summit China 2026](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/) - 中国上海** 🌟
+  * 2026年中国最大的云原生盛会 (The biggest cloud native event in China for 2026)
 
 ### 10月
 
