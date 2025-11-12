@@ -18,7 +18,7 @@ TODO
 ### 11月
 
 * 1日: [vLLM Meetup Beijing](https://mp.weixin.qq.com/s/Kn3WerdAhH6XKLI5DQA2jg) - 北京
-* 1-2日: 2025 GOTC - AI 教育与人才培养论坛 [CFP](https://mp.weixin.qq.com/s/NWRgTQQZWRw-CkLmwZmVvg) - 北京
+* 1-2日: 2025 GOTC - AI 教育与人才培养论坛 - 北京
 * 7日: [大模型推理性能优化研讨会](https://x.com/xu_paco/status/1984900937916538982) (无直播) 火山引擎联合 SGLang、NVIDIA - 上海
 * 11-13日: [KubeCon 北美 2025](https://kccncna2025.sched.com/) - 亚特兰大
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-events-overview/)
@@ -26,13 +26,13 @@ TODO
 
 ### 12月
 
-* 6-7日: [COCCon'25 中国开源年会](https://www.bagevent.com/event/speechApply/8199016) CFP 截止11.09 by 开源社 - 北京
+* 6-7日: [COCCon'25 中国开源年会](https://www.bagevent.com/event/speechApply/8199016) 开源社 - 北京
 * 8-10日: [AI_dev: Open Source GenAI & ML Summit 日本 2025](https://events.linuxfoundation.org/ai-dev-japan-2025/)  - 日本东京 ([议程](https://ossjapan2025.sched.com/list/simple?iframe=no))
 * 8-10日: [Open Source Summit Japan 2025](https://events.linuxfoundation.org/open-source-summit-japan-2025/) - 日本东京
 * 8-11日: [IEEE International Conference on Big Data](https://dev.events/conferences/ieee-international-conference-on-big-data-3ys9dfyg) - 澳门
 * 12-13日: [C++ and System Software Summit](https://dev.events/conferences/c-and-system-software-summit-inoahwoe) - 北京
 * 19-20日: [AICon Beijing](https://aicon.infoq.cn/202512/beijing) - 北京
-* 20日: [Ray Forward 2025](https://mp.weixin.qq.com/s/598ilLInApANHvAvfMxuWA) - 北京（议题征集截止：11月9日）
+* 20日: [Ray Forward 2025](https://mp.weixin.qq.com/s/598ilLInApANHvAvfMxuWA) - 北京
 
 ## 2026
 
@@ -44,6 +44,7 @@ TODO
 ### 3月
 
 * 16-19日: [NVIDIA GTC 2026](https://www.nvidia.com/gtc/) - 美国圣何塞
+* 17日: [OpenSearchCon China](http://events.linuxfoundation.org/sponsor-opensearchcon26) ([CFP](https://sessionize.com/opensearchcon-china-2026/) 截止 1月11日) - 上海
 * 19-20日: [Wasm I/O 2026](https://wasm.io/) - 西班牙巴塞罗那
 * 21日: KCD Beijing - 北京
 * 23-26日: [KubeCon + CloudNativeCon 欧洲 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) - 荷兰阿姆斯特丹
