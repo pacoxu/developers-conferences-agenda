@@ -90,6 +90,10 @@ TODO
 
 * 6-7日: [PyTorch Conference 2027](https://events.linuxfoundation.org/pytorch-conference-2027/) - 美国圣何塞
 
+### 11月
+
+* 8-11日: [KubeCon + CloudNativeCon 北美 2027](https://events.linuxfoundation.org/) - 美国新奥尔良
+
 # 其他链接
 
 - [Linux Foundation Events](https://events.linuxfoundation.org/): 包括 CNCF，PyTorch 基金会活动
