@@ -15,6 +15,18 @@ TODO
 🌐 **[KubeCon + CloudNativeCon 完整列表](./kubecon-list.md)** - 查看 2015-2027 年所有 KubeCon 会议
 
 
+## 2025
+
+### 12月
+
+* 6-7日: [COCCon'25 中国开源年会](https://www.bagevent.com/event/speechApply/8199016) 开源社 - 北京
+* 8-10日: [AI_dev: Open Source GenAI & ML Summit 日本 2025](https://events.linuxfoundation.org/ai-dev-japan-2025/)  - 日本东京 ([议程](https://ossjapan2025.sched.com/list/simple?iframe=no))
+* 8-10日: [Open Source Summit Japan 2025](https://events.linuxfoundation.org/open-source-summit-japan-2025/) - 日本东京
+* 8-11日: [IEEE International Conference on Big Data](https://dev.events/conferences/ieee-international-conference-on-big-data-3ys9dfyg) - 澳门
+* 12-13日: [C++ and System Software Summit](https://dev.events/conferences/c-and-system-software-summit-inoahwoe) - 北京
+* 19-20日: [AICon Beijing](https://aicon.infoq.cn/202512/beijing) - 北京
+* 20日: [Ray Forward 2025](https://mp.weixin.qq.com/s/598ilLInApANHvAvfMxuWA) - 北京
+
 ## 2026
 
  - KCD 杭州 筹备中
