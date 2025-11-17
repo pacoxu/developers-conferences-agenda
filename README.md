@@ -17,15 +17,6 @@ TODO
 
 ## 2025
 
-### 11月
-
-* 1日: [vLLM Meetup Beijing](https://mp.weixin.qq.com/s/Kn3WerdAhH6XKLI5DQA2jg) - 北京
-* 1-2日: 2025 GOTC - AI 教育与人才培养论坛 - 北京
-* 7日: [大模型推理性能优化研讨会](https://x.com/xu_paco/status/1984900937916538982) (无直播) 火山引擎联合 SGLang、NVIDIA - 上海
-* 11-13日: [KubeCon 北美 2025](https://kccncna2025.sched.com/) - 亚特兰大
-  * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-events-overview/)
-* 15日: [KCD 杭州 + OpenInfra Days China 2025](https://community.cncf.io/events/details/cncf-kcd-hangzhou-presents-kcd-hangzhou-openinfra-days-china-2025/) - 杭州
-
 ### 12月
 
 * 6-7日: [COCCon'25 中国开源年会](https://www.bagevent.com/event/speechApply/8199016) 开源社 - 北京
