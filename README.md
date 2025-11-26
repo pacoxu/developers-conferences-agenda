@@ -47,7 +47,7 @@ TODO
 
 ### 5月
 
-* 时间待定: [GOSIM Conference 2026](https://gosim.org/) - 地点待定
+* 时间待定: [GOSIM Conference 2026](https://gosim.org/#events) - 地点待定
 
 ### 6月
 
