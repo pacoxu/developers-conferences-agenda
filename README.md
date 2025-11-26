@@ -45,6 +45,10 @@ TODO
   * Maintainer Track [CFP](https://sessionize.com/project-benefits-kubecon-eu-2026) 截止12月14日
   * Maintainer Summit [CFP](https://sessionize.com/maintainer-summit-eu-2026) 截止12月14日
 
+### 5月
+
+* 时间待定: [GOSIM Conference 2026](https://gosim.org/) - 地点待定
+
 ### 6月
 
 * 18-19日 [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - 印度孟买
