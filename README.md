@@ -51,22 +51,23 @@ TODO
 
 ### 6月
 
-* 18-19日 [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - 印度孟买
+* 18-19日 [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) ([CFP](https://sessionize.com/kubecon-cloudnativecon-india-2026/) 截止 2025年2月1日) - 印度孟买
 
 ### 7月
 
-* 29-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) 日本横滨
+* 29-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) (CFP 2025年一月中旬开启) 日本横滨
 
 ### 9月
 
 * **8-9日: [KubeCon + CloudNativeCon + OpenInfra Summit China 2026](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/) - 中国上海** 🌟
   * 2026年中国最大的云原生盛会 (The biggest cloud native event in China for 2026)
+  * 将包含 PyTorch 相关内容，CFP 2025年三月底开启
 
 ### 10月
 
 * 7-9日: [Open Source Summit Europe 2026](https://events.linuxfoundation.org/open-source-summit-europe-2026/) - 布拉格，捷克
 * 20-21日: [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/) - 美国圣何塞
-* 26-29日: [KubeCon + CloudNativeCon 北美 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - 美国盐湖城
+* 26-29日: [KubeCon + CloudNativeCon 北美 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) (CFP 2025年三月底开启) - 美国盐湖城
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/co-located-events/) - 包括各 CNCF 项目专场、SIG 会议、Observability Day、GitOps Summit 等
 
 ### 11月

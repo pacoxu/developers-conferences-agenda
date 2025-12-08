@@ -44,6 +44,13 @@
 | 2027 | EU | Europe 2027 | Barcelona, Spain | [15–18 Mar 2027](https://events.linuxfoundation.org/?utm_source=chatgpt.com) |
 | 2027 | NA | North America 2027 | New Orleans, USA | [8–11 Nov 2027](https://events.linuxfoundation.org/?utm_source=chatgpt.com) |
 
+## 2026 CFP 信息
+
+- **KubeCon India 2026**: [CFP](https://sessionize.com/kubecon-cloudnativecon-india-2026/) 截止 2025年2月1日
+- **KubeCon Japan 2026**: CFP 2025年一月中旬开启
+- **KubeCon China 2026**: 将包含 PyTorch 相关内容，CFP 2025年三月底开启
+- **KubeCon North America 2026**: CFP 2025年三月底开启
+
 ## 说明
 
 - **区域缩写**：
@@ -71,4 +78,4 @@
 
 ---
 
-_最后更新: 2025 年 11 月_
+_最后更新: 2025 年 12 月_
