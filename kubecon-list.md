@@ -46,10 +46,10 @@
 
 ## 2026 CFP 信息
 
-- **KubeCon India 2026**: [CFP](https://sessionize.com/kubecon-cloudnativecon-india-2026/) 截止 2月1日
-- **KubeCon Japan 2026**: CFP 一月中旬开启
-- **KubeCon China 2026**: 将包含 PyTorch 相关内容，CFP 三月底开启
-- **KubeCon North America 2026**: CFP 三月底开启
+- **KubeCon India 2026**: [CFP](https://sessionize.com/kubecon-cloudnativecon-india-2026/) 截止 2025年2月1日
+- **KubeCon Japan 2026**: CFP 2025年一月中旬开启
+- **KubeCon China 2026**: 将包含 PyTorch 相关内容，CFP 2025年三月底开启
+- **KubeCon North America 2026**: CFP 2025年三月底开启
 
 ## 说明
 
