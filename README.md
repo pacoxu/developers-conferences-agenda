@@ -34,6 +34,8 @@ TODO
  - KCD 深圳 筹备中
  - KCD 西安 retry
 
+* 时间待定: [MCP Dev Summit North America](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - 北美🇺🇸
+
 ### 3月
 
 * 16-19日: [NVIDIA GTC 2026](https://www.nvidia.com/gtc/) - 美国圣何塞
