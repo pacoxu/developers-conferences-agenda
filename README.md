@@ -34,8 +34,6 @@ TODO
  - KCD 深圳 筹备中
  - KCD 西安 retry
 
-* 时间待定: [MCP Dev Summit North America](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - 北美🇺🇸
-
 ### 3月
 
 * 16-19日: [NVIDIA GTC 2026](https://www.nvidia.com/gtc/) - 美国圣何塞
@@ -46,6 +44,10 @@ TODO
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cncf-hosted-co-located-events-overview/)
   * Maintainer Track [CFP](https://sessionize.com/project-benefits-kubecon-eu-2026) 截止12月14日
   * Maintainer Summit [CFP](https://sessionize.com/maintainer-summit-eu-2026) 截止12月14日
+
+### 4月
+
+* 2-3日: [MCP Dev Summit North America](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - 美国🇺🇸纽约
 
 ### 5月
 
