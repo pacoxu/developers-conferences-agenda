@@ -38,6 +38,7 @@ TODO
 
 ### 5月
 
+* 18-20日: [Open Source Summit North America 2026](https://events.linuxfoundation.org/open-source-summit-north-america-2026/) - 北美🇺🇸
 * 时间待定: [GOSIM Conference 2026](https://gosim.org/#events) - 地点待定
 
 ### 6月
@@ -58,12 +59,11 @@ TODO
 
 * 7-9日: [Open Source Summit Europe 2026](https://events.linuxfoundation.org/open-source-summit-europe-2026/) - 布拉格，捷克🇨🇿
 * 20-21日: [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/) - 美国🇺🇸圣何塞
-* 26-29日: [KubeCon + CloudNativeCon 北美 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) (CFP 2025年三月底开启) - 美国🇺🇸盐湖城
-  * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/co-located-events/) - 包括各 CNCF 项目专场、SIG 会议、Observability Day、GitOps Summit 等
 
 ### 11月
 
-* 时间待定: [Open Source Summit North America 2026](https://events.linuxfoundation.org/open-source-summit-north-america/) - 北美🇺🇸
+* 9-12日: [KubeCon + CloudNativeCon 北美 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) (CFP 2025年三月底开启) - 美国🇺🇸盐湖城
+  * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/co-located-events/) - 包括各 CNCF 项目专场、SIG 会议、Observability Day、GitOps Summit 等
 
 ### 12月
 
