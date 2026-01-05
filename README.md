@@ -64,7 +64,7 @@ TODO
 * 9-12日: [KubeCon + CloudNativeCon 北美 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) (CFP 2025年三月底开启) - 美国🇺🇸盐湖城
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/co-located-events/) - 包括各 CNCF 项目专场、SIG 会议、Observability Day、GitOps Summit 等
 
-* 时间待定: [Open Source Summit North America 2026](https://events.linuxfoundation.org/open-source-summit-north-america/) - 北美🇺🇸
+* 时间待定: [Open Source Summit North America 2026](https://events.linuxfoundation.org/open-source-summit-north-america-2026/) - 北美🇺🇸
 
 ### 12月
 
