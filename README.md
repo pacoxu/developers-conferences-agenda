@@ -93,4 +93,5 @@ TODO
 - 开放原子基金会[活动列表](https://www.openatom.org/events)
 - 思否[活动列表](https://segmentfault.com/events)
 - PyTorch 基金会[活动列表](https://pytorch.org/events/)
+- [vLLM Events](https://vllm.ai/events)
 
