@@ -21,6 +21,10 @@ TODO
  - KCD 深圳 筹备中
  - KCD 西安 retry
 
+### 1月
+
+* 10日: [veRL Meetup](https://mp.weixin.qq.com/s/VQc5kZP2h_HgHlBh1fvB8Q) - 上海浦江广场T4A F7-11 13:30-18:00
+
 ### 3月
 
 * 16-19日: [NVIDIA GTC 2026](https://www.nvidia.com/gtc/) - 美国圣何塞
