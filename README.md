@@ -24,6 +24,7 @@ TODO
 ### 1月
 
 * 10日: [veRL Meetup](https://mp.weixin.qq.com/s/VQc5kZP2h_HgHlBh1fvB8Q) - 上海浦江广场T4A F7-11 13:30-18:00
+* 17日: [SGLang Meetup](https://mp.weixin.qq.com/s/ekCT2Gjo1ycTgL-_VWjMXA) - 杭州
 
 ### 3月
 
