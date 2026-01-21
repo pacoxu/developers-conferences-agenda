@@ -31,7 +31,7 @@ TODO
 * 16-19日: [NVIDIA GTC 2026](https://www.nvidia.com/gtc/) - 美国圣何塞
 * 17日: [OpenSearchCon China](http://events.linuxfoundation.org/sponsor-opensearchcon26) ([CFP](https://sessionize.com/opensearchcon-china-2026/) 截止 1月11日) - 上海
 * 19-20日: [Wasm I/O 2026](https://wasm.io/) - 西班牙🇪🇸巴塞罗那
-* 21日: KCD Beijing - 北京 [CFP](https://sessionize.com/kcd-beijing-2026/) 截止 2月24日
+* 21日: KCD Beijing（合办 vLLM meetup） - 北京 [CFP](https://sessionize.com/kcd-beijing-2026/) 截止 2月24日
 * 23-26日: [KubeCon + CloudNativeCon 欧洲 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) [议题马上公布](https://kccnceu2026.sched.com/) - 荷兰🇳🇱阿姆斯特丹
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cncf-hosted-co-located-events-overview/)
   * Maintainer Track [CFP](https://sessionize.com/project-benefits-kubecon-eu-2026) 截止12月14日
@@ -52,13 +52,13 @@ TODO
 
 ### 7月
 
-* 29-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) (CFP 2025年一月中旬开启) 日本🇯🇵横滨
+* 29-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) ([CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program/cfp/) 截止 3月29日) 日本🇯🇵横滨
 
 ### 9月
 
 * **8-9日: [KubeCon + CloudNativeCon + OpenInfra Summit China 2026](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/) - 中国🇨🇳上海** 🌟
   * 2026年中国最大的云原生盛会 (The biggest cloud native event in China for 2026)
-  * 将包含 PyTorch 相关内容，CFP 2025年三月底开启
+  * 将包含 PyTorch Con（包括 vLLM 和 SGlang 内容），CFP 2025年三月底开启
 
 ### 10月
 
