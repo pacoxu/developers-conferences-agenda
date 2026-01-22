@@ -25,6 +25,7 @@ TODO
 
 * 10日: [veRL Meetup](https://mp.weixin.qq.com/s/BRwNAMZ0V8WCf09kENcONA) - 上海浦江广场T4A F7-11 13:30-18:00
 * 17日下午: [SGLang Meetup](https://mp.weixin.qq.com/s/ekCT2Gjo1ycTgL-_VWjMXA) - 杭州
+* 22日: [Dynamo Day](https://nvevents.nvidia.com/dynamoday?ncid=so-link-211895&linkId=100000401834089) - 线上活动 8:00 am - 1:00 pm (UTC-08:00)
 
 ### 3月
 
