@@ -33,10 +33,10 @@ TODO
 * 17日: [OpenSearchCon China](http://events.linuxfoundation.org/sponsor-opensearchcon26) ([CFP](https://sessionize.com/opensearchcon-china-2026/) 截止 1月11日) - 上海
 * 19-20日: [Wasm I/O 2026](https://wasm.io/) - 西班牙🇪🇸巴塞罗那
 * 21日: KCD Beijing（合办 vLLM meetup） - 北京 [CFP](https://sessionize.com/kcd-beijing-2026/) 截止 2月24日
-* 23-26日: [KubeCon + CloudNativeCon 欧洲 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) [议题马上公布](https://kccnceu2026.sched.com/) - 荷兰🇳🇱阿姆斯特丹
-  * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cncf-hosted-co-located-events-overview/)
-  * Maintainer Track [CFP](https://sessionize.com/project-benefits-kubecon-eu-2026) 截止12月14日
-  * Maintainer Summit [CFP](https://sessionize.com/maintainer-summit-eu-2026) 截止12月14日
+* 23-26日: [KubeCon + CloudNativeCon 欧洲 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) [议题](https://kccnceu2026.sched.com/) - 荷兰🇳🇱阿姆斯特丹
+  * [CNCF-hosted Co-located Events](https://colocatedeventseu2026.sched.com/)
+  * [Maintainer Track](https://kccnceu2026.sched.com/overview/type/Maintainer+Track)
+  * [Maintainer Summit](https://maintainersummiteu2026.sched.com/)
 
 ### 4月
 
@@ -100,4 +100,3 @@ TODO
 - 思否[活动列表](https://segmentfault.com/events)
 - PyTorch 基金会[活动列表](https://pytorch.org/events/)
 - [vLLM Events](https://vllm.ai/events)
-
