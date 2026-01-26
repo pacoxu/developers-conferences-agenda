@@ -41,6 +41,7 @@ TODO
 ### 4月
 
 * 2-3日: [MCP Dev Summit North America](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - 美国🇺🇸纽约
+* 7-8日: [PyTorch Conference Europe](https://events.linuxfoundation.org/pytorch-conference-europe/) - 法国🇫🇷巴黎
 
 ### 5月
 
