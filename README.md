@@ -16,11 +16,6 @@ TODO
 
 ## 2026
 
- - KCD 杭州 筹备中
- - KCD 广州 申请中
- - KCD 深圳 筹备中
- - KCD 西安 retry
-
 ### 1月
 
 * 10日: [veRL Meetup](https://mp.weixin.qq.com/s/BRwNAMZ0V8WCf09kENcONA) - 上海浦江广场T4A F7-11 13:30-18:00
