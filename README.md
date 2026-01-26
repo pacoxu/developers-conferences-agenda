@@ -41,6 +41,7 @@ TODO
 ### 4月
 
 * 2-3日: [MCP Dev Summit North America](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - 美国🇺🇸纽约
+* 7-8日: [PyTorch Conference Europe](https://events.linuxfoundation.org/pytorch-conference-europe/) - 法国🇫🇷巴黎
 
 ### 5月
 
@@ -64,7 +65,6 @@ TODO
 ### 10月
 
 * 7-9日: [Open Source Summit Europe 2026](https://events.linuxfoundation.org/open-source-summit-europe-2026/) - 布拉格，捷克🇨🇿
-* 时间待定: [PyTorch Conference Europe](https://events.linuxfoundation.org/pytorch-conference-europe/) - 地点待定
 * 20-21日: [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/) - 美国🇺🇸圣何塞
 
 ### 11月
