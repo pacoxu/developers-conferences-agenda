@@ -64,6 +64,7 @@ TODO
 ### 10月
 
 * 7-9日: [Open Source Summit Europe 2026](https://events.linuxfoundation.org/open-source-summit-europe-2026/) - 布拉格，捷克🇨🇿
+* 时间待定: [PyTorch Conference Europe](https://events.linuxfoundation.org/pytorch-conference-europe/) - 地点待定
 * 20-21日: [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/) - 美国🇺🇸圣何塞
 
 ### 11月
