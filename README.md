@@ -57,9 +57,9 @@ TODO
 
 ### 9月
 
-* **8-9日: [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) - 中国🇨🇳上海** 🌟
+* **8-9日: [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) ([CFP](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/cfp/)) - 中国🇨🇳上海** 🌟
   * 2026年中国最大的云原生盛会 (The biggest cloud native event in China for 2026)
-  * 将包含 PyTorch Con（包括 vLLM 和 SGlang 内容），CFP 2025年三月底开启
+  * 将包含 PyTorch Con（包括 vLLM 和 SGlang 内容）
 
 ### 10月
 
