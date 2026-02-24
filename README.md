@@ -28,6 +28,7 @@ TODO
 
 ### 3月
 
+* 7日: [vLLM Hong Kong Meetup](https://opensource.hk/vllm-hong-kong-meetup/) - 中国香港
 * 16-19日: [NVIDIA GTC 2026](https://www.nvidia.com/gtc/) - 美国圣何塞
 * 17日: [OpenSearchCon China](http://events.linuxfoundation.org/sponsor-opensearchcon26) - 上海
 * 19-20日: [Wasm I/O 2026](https://wasm.io/) - 西班牙🇪🇸巴塞罗那
