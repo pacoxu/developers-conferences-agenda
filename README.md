@@ -67,6 +67,7 @@ TODO
 
 * 7-9日: [Open Source Summit Europe 2026](https://events.linuxfoundation.org/open-source-summit-europe-2026/) - 布拉格，捷克🇨🇿
 * 20-21日: [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/) - 美国🇺🇸圣何塞
+* 22-23日: [AGNTCon + MCPCon](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/) - 美国🇺🇸圣何塞
 
 ### 11月
 
