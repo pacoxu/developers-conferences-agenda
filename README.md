@@ -54,7 +54,8 @@ TODO
 
 ### 7月
 
-* 29-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) ([CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program/cfp/) 截止 3月29日) 日本🇯🇵横滨
+* 28-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) ([CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program/cfp/) 截止 3月29日) 日本🇯🇵横滨
+  * 28日（周二）: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/) ([Co-located Events CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/cfp/) 截止 4月12日)
   * [Maintainer Track + Project Lightning CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/features-add-ons/project-opportunities/) 截止 4月12日
 
 ### 9月
