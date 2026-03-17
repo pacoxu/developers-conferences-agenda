@@ -58,6 +58,10 @@ TODO
   * 28日（周二）: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/) ([Co-located Events CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/cfp/) 截止 4月12日)
   * [Maintainer Track + Project Lightning CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/features-add-ons/project-opportunities/) 截止 4月12日
 
+### 8月
+
+* 7-9日: [Community Over Code Asia 2026](https://communityovercode.org/) - 北京市海淀区中关村国家自主创新示范区会议中心
+
 ### 9月
 
 * **8-9日: [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) ([CFP](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/cfp/)) 截止 5月3日 - 中国🇨🇳上海** 🌟
