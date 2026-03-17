@@ -32,7 +32,7 @@ TODO
 * 16-19日: [NVIDIA GTC 2026](https://www.nvidia.com/gtc/) - 美国圣何塞
 * 17日: [OpenSearchCon China](http://events.linuxfoundation.org/sponsor-opensearchcon26) - 上海
 * 19-20日: [Wasm I/O 2026](https://wasm.io/) - 西班牙🇪🇸巴塞罗那
-* 21日: KCD Beijing + vLLM 2026 - 北京 [CFP](https://sessionize.com/kcd-beijing-2026/) 截止 2月24日
+* 21日: KCD Beijing + vLLM 2026 - 北京
 * 23-26日: [KubeCon + CloudNativeCon 欧洲 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2026/) [议题](https://kccnceu2026.sched.com/) - 荷兰🇳🇱阿姆斯特丹
   * [CNCF-hosted Co-located Events](https://colocatedeventseu2026.sched.com/)
   * [Maintainer Track](https://kccnceu2026.sched.com/overview/type/Maintainer+Track)
@@ -50,7 +50,7 @@ TODO
 
 ### 6月
 
-* 18-19日 [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) ([CFP](https://sessionize.com/kubecon-cloudnativecon-india-2026/) 截止 2025年2月1日) - 印度🇮🇳孟买
+* 18-19日 [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - 印度🇮🇳孟买
 
 ### 7月
 
