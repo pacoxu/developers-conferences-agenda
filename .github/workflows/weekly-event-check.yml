@@ -1,0 +1,95 @@
+name: Weekly Event Check
+
+# Runs every Monday at 08:00 UTC, and can be triggered manually.
+on:
+  schedule:
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+
+jobs:
+  check-events:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Check for new events
+        run: python scripts/check_events.py
+
+      - name: Create issue for new events
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          COUNT=$(python3 - <<'EOF'
+          import json, sys
+          try:
+              data = json.load(open("/tmp/new_events.json"))
+              print(len(data))
+          except Exception:
+              print(0)
+          EOF
+          )
+
+          if [ "$COUNT" -gt "0" ]; then
+            BODY=$(python3 - <<'EOF'
+          import json, datetime
+
+          data = json.load(open("/tmp/new_events.json"))
+          today = datetime.date.today().isoformat()
+
+          lines = [
+              "## New Events Found (" + today + ")",
+              "",
+              "The weekly automated check found **" + str(len(data)) + "** new event(s) that are not yet in the README.",
+              "Please review the list below and add any relevant events to [README.md](https://github.com/${{ github.repository }}/blob/main/README.md).",
+              "",
+              "| Event | Date | Location | Source |",
+              "|-------|------|----------|--------|",
+          ]
+
+          for e in data:
+              name = e.get("name", "")
+              link = e.get("link", "")
+              date = e.get("date", "")
+              location = e.get("location", "")
+              source = e.get("source", "")
+              name_md = f"[{name}]({link})" if link else name
+              lines.append(f"| {name_md} | {date} | {location} | {source} |")
+
+          lines += [
+              "",
+              "---",
+              "**Sources checked:**",
+              "- https://events.linuxfoundation.org/",
+              "- https://www.cncf.io/sponsor",
+              "- https://vllm.ai/events",
+              "",
+              "*This issue was created automatically by the [Weekly Event Check](https://github.com/${{ github.repository }}/blob/main/.github/workflows/weekly-event-check.yml) workflow.*",
+          ]
+
+          print("\n".join(lines))
+          EOF
+          )
+
+            TITLE="New events found: $(date +%Y-%m-%d) ($COUNT events)"
+
+            gh issue create \
+              --title "$TITLE" \
+              --body "$BODY" \
+              --label "automated,needs-review" \
+              || true
+          else
+            echo "No new events — skipping issue creation."
+          fi
