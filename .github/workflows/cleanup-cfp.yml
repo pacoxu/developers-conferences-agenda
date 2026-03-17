@@ -52,15 +52,10 @@ jobs:
           # Create PR only when one doesn't already exist for this branch
           EXISTING=$(gh pr list --head "$BRANCH" --json number --jq '.[0].number' 2>/dev/null)
           if [ -n "$EXISTING" ]; then
-            echo "PR #$EXISTING already exists for branch $BRANCH — skipping creation."
+            echo "PR #$EXISTING already exists for branch $BRANCH - skipping creation."
           else
             gh pr create \
               --title "Auto: Remove expired CFP links ($(date +%Y-%m-%d))" \
-              --body "$(cat <<'PRBODY'
-This PR was automatically created by the weekly **Auto Cleanup Expired CFP** workflow.
-
-Removed CFP links and dates where the CFP deadline was more than 1 week ago.
-PRBODY
-)" \
+              --body $'This PR was automatically created by the weekly **Auto Cleanup Expired CFP** workflow.\n\nRemoved CFP links and dates where the CFP deadline was more than 1 week ago.' \
               --label "automated"
           fi
