@@ -43,6 +43,7 @@
 | 2026 | NA | North America 2026 | Salt Lake City, USA | [9–12 Nov 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/?utm_source=chatgpt.com) |
 | 2027 | EU | Europe 2027 | Barcelona, Spain | [15–18 Mar 2027](https://events.linuxfoundation.org/?utm_source=chatgpt.com) |
 | 2027 | NA | North America 2027 | New Orleans, USA | [8–11 Nov 2027](https://events.linuxfoundation.org/?utm_source=chatgpt.com) |
+| 2028 | EU | Europe 2028 | Berlin, Germany | [24–27 Apr 2028](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/) |
 
 ## 2026 CFP 信息
 
@@ -71,11 +72,11 @@
 
 ## 统计信息
 
-- **会议总数**: 37 场（截至 2027 年已公布的会议）
+- **会议总数**: 38 场（截至 2028 年已公布的会议）
 - **首届会议**: 2015 年 11 月，美国旧金山
 - **举办城市**: 遍布全球各主要城市
 - **区域分布**: 北美、欧洲、中国、印度、日本
 
 ---
 
-_最后更新: 2025 年 12 月_
+_最后更新: 2026 年 3 月_

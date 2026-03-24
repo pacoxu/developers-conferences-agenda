@@ -12,7 +12,7 @@ TODO
 
 📁 **[历史会议档案](./archived/README.md)** - 查看往年开发者会议信息
 
-🌐 **[KubeCon + CloudNativeCon 完整列表](./kubecon-list.md)** - 查看 2015-2027 年所有 KubeCon 会议
+🌐 **[KubeCon + CloudNativeCon 完整列表](./kubecon-list.md)** - 查看 2015-2028 年所有 KubeCon 会议
 
 ## 2026
 
@@ -76,6 +76,12 @@ TODO
 ### 11月
 
 * 8-11日: [KubeCon + CloudNativeCon 北美 2027](https://events.linuxfoundation.org/) - 美国🇺🇸新奥尔良
+
+## 2028
+
+### 4月
+
+* 24-27日: [KubeCon + CloudNativeCon 欧洲 2028](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/) - 德国🇩🇪柏林
 
 # 其他链接
 
