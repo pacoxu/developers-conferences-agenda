@@ -20,6 +20,7 @@ TODO
 
 * 2-3日: [MCP Dev Summit North America](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - 美国🇺🇸纽约
 * 7-8日: [PyTorch Conference Europe](https://events.linuxfoundation.org/pytorch-conference-europe/) - 法国🇫🇷巴黎
+* 11日: [AgentCon Hong Kong](https://globalai.community/chapters/hong-kong/events/agentcon-hong-kong/) - 香港🇭🇰
 
 ### 5月
 
@@ -28,6 +29,7 @@ TODO
 
 ### 6月
 
+* 6日: [Hong Kong Open Source Conference (HKOSCon) 2026](https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42) ([CFP](https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42)) - 香港🇭🇰
 * 18-19日 [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - 印度🇮🇳孟买
 
 ### 7月
