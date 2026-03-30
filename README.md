@@ -16,6 +16,8 @@ TODO
 
 ## 2026
 
+<img width="1247" height="699" alt="image" src="https://github.com/user-attachments/assets/64a998f6-a41a-489a-82e3-4716f94c4288" />
+
 ### 4月
 
 * 2-3日: [MCP Dev Summit North America](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - 美国🇺🇸纽约
@@ -65,6 +67,9 @@ TODO
 * 7-9日: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan-2026/) - 日本🇯🇵
 
 ## 2027
+
+<img width="1242" height="555" alt="image" src="https://github.com/user-attachments/assets/6ba3dbd8-6a1a-46a0-a89a-2e2eae2fcea9" />
+
 
 ### 3月
 
