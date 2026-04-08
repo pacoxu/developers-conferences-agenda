@@ -26,8 +26,8 @@ TODO
 
 ### 5月
 
+* 5-6日: [GOSIM Paris 2026](https://paris2026.gosim.org/) - 法国🇫🇷巴黎
 * 18-20日: [Open Source Summit North America 2026](https://events.linuxfoundation.org/open-source-summit-north-america-2026/) - 北美🇺🇸
-* 时间待定: [GOSIM Conference 2026](https://gosim.org/#events) - 地点待定
 
 ### 6月
 
