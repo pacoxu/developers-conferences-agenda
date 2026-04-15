@@ -26,6 +26,12 @@
   * [Maintainer Track](https://kccnceu2026.sched.com/overview/type/Maintainer+Track)
   * [Maintainer Summit](https://maintainersummiteu2026.sched.com/)
 
+### 4月
+
+* 2-3日: [MCP Dev Summit North America](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - 美国🇺🇸纽约
+* 7-8日: [PyTorch Conference Europe](https://events.linuxfoundation.org/pytorch-conference-europe/) - 法国🇫🇷巴黎
+* 11日: [AgentCon Hong Kong](https://globalai.community/chapters/hong-kong/events/agentcon-hong-kong/) - 香港🇭🇰
+
 ## 其他链接
 
 - [返回主页](../../README.md)

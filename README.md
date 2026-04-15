@@ -18,12 +18,6 @@ TODO
 
 <img width="1247" height="699" alt="image" src="https://github.com/user-attachments/assets/64a998f6-a41a-489a-82e3-4716f94c4288" />
 
-### 4月
-
-* 2-3日: [MCP Dev Summit North America](https://events.linuxfoundation.org/mcp-dev-summit-north-america/) - 美国🇺🇸纽约
-* 7-8日: [PyTorch Conference Europe](https://events.linuxfoundation.org/pytorch-conference-europe/) - 法国🇫🇷巴黎
-* 11日: [AgentCon Hong Kong](https://globalai.community/chapters/hong-kong/events/agentcon-hong-kong/) - 香港🇭🇰
-
 ### 5月
 
 * 5-6日: [GOSIM Paris 2026](https://paris2026.gosim.org/) - 法国🇫🇷巴黎
