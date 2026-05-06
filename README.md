@@ -31,8 +31,7 @@ TODO
 ### 7月
 
 * 28-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) 日本🇯🇵横滨
-  * 28日（周二）: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/) ArgoCon + KeyCloakCon ([Co-located Events CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/cfp/) 截止 4月12日)
-  * [Maintainer Track + Project Lightning CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/features-add-ons/project-opportunities/) 截止 4月12日
+  * 28日（周二）: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/) ArgoCon + KeyCloakCon 
 
 ### 8月
 
@@ -40,7 +39,7 @@ TODO
 
 ### 9月
 
-* **8-9日: [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) ([CFP](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/program/cfp/)) 截止 5月3日 - 中国🇨🇳上海** 🌟
+* **8-9日: [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) - 中国🇨🇳上海** 🌟
   * 2026年中国最大的云原生盛会 (The biggest cloud native event in China for 2026)
   * 将包含 PyTorch Con（包括 vLLM 和 SGlang 内容）
 
