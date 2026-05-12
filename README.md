@@ -46,6 +46,9 @@ TODO
 ### 5月
 
 * 18-20日: [Open Source Summit North America 2026](https://events.linuxfoundation.org/open-source-summit-north-america-2026/) - 北美🇺🇸
+* 23日: vLLM Meetup 杭州 - 魔搭社区（杭州）开发者中心 13:30-17:55
+  * 主题：Agentic AI 时代的推理加速框架
+  * 地点：杭州市西湖区灯彩街1009号云谷中心 B1楼 2F（路演区）
 * 时间待定: [GOSIM Conference 2026](https://gosim.org/#events) - 地点待定
 
 ### 6月
