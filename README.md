@@ -31,8 +31,10 @@ TODO
 
 ### 7月
 
+* 18日: [Vue x Vite 开发者大会 2026](https://vueconf.cn/) - 中国🇨🇳上海
 * 28-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) 日本🇯🇵横滨
   * 28日（周二）: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/) ArgoCon + KeyCloakCon 
+  * [Maintainer Track + Project Lightning CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/features-add-ons/project-opportunities/) 截止 4月12日
 
 ### 8月
 
