@@ -18,12 +18,6 @@ TODO
 
 <img width="1247" height="699" alt="image" src="https://github.com/user-attachments/assets/64a998f6-a41a-489a-82e3-4716f94c4288" />
 
-### 5月
-
-* 5-6日: [GOSIM Paris 2026](https://paris2026.gosim.org/) - 法国🇫🇷巴黎
-* 18-20日: [Open Source Summit North America 2026](https://events.linuxfoundation.org/open-source-summit-north-america-2026/) - 北美🇺🇸
-* 23日: vLLM Meetup 杭州 - 浙江省杭州市余杭区新城路1009号云谷中⼼B1栋2F（ModelScope 杭州开发者中心）
-
 ### 6月
 
 * 6日: [Hong Kong Open Source Conference (HKOSCon) 2026](https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42) ([CFP](https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42)) - 香港🇭🇰
