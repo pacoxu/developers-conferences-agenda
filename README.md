@@ -22,6 +22,7 @@ TODO
 
 * 6日: [Hong Kong Open Source Conference (HKOSCon) 2026](https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42) ([CFP](https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42)) - 香港🇭🇰
 * 18-19日 [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - 印度🇮🇳孟买
+* 26-27日: [AICon Shanghai 2026](https://aicon.infoq.cn/2026/shanghai/track) - 中国🇨🇳上海虹桥祥源希尔顿酒店
 
 ### 7月
 
