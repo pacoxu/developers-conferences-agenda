@@ -29,7 +29,7 @@ TODO
 * 18日: [Vue x Vite 开发者大会 2026](https://vueconf.cn/) - 中国🇨🇳上海
 * 28-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) 日本🇯🇵横滨
   * 28日（周二）: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/) ArgoCon + KeyCloakCon 
-  * [Maintainer Track + Project Lightning CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/features-add-ons/project-opportunities/) 截止 4月12日
+  * Maintainer Track + Project Lightning CFP 截止 4月12日（已结束）
 
 ### 8月
 
@@ -37,6 +37,8 @@ TODO
 
 ### 9月
 
+* 6-7日: [MCP Dev Summit Shanghai](https://www.lfopensource.cn/mcp-dev-summit-shanghai/) - 中国🇨🇳上海（与 AAIF 同场地）
+  * [CFP](https://www.lfopensource.cn/mcp-dev-summit-shanghai/program/cfp/) 投稿截止 6月10日
 * **8-9日: [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) - 中国🇨🇳上海** 🌟
   * 2026年中国最大的云原生盛会 (The biggest cloud native event in China for 2026)
   * 将包含 PyTorch Con（包括 vLLM 和 SGlang 内容）
@@ -50,7 +52,10 @@ TODO
 
 ### 11月
 
-* 9-12日: [KubeCon + CloudNativeCon 北美 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) ([CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/) 截止 5月31日) - 美国🇺🇸盐湖城
+* 9-12日: [KubeCon + CloudNativeCon 北美 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - 美国🇺🇸盐湖城
+  * CFP 已截止（5月31日）
+  * [Co-located Events CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/co-located-events/) 刚开启，截止 6月21日
+  * [Maintainer Track + Contribfest + Project Lightning Talk CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/features-add-ons/project-opportunities/) 截止 7月12日
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/co-located-events/) - 包括各 CNCF 项目专场、SIG 会议、Observability Day、GitOps Summit 等
 * 待定： [KCD 杭州](https://www.cncf.io/blog/2026/02/25/announcing-h2-2026-kcds/)  
 
