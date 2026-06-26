@@ -21,7 +21,7 @@ TODO
 ### 6月
 
 * 6日: [Hong Kong Open Source Conference (HKOSCon) 2026](https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42) ([CFP](https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42)) - 香港🇭🇰
-* 11日: AI Context Series: Singapore - 新加坡🇸🇬（约 200+ 技术观众；受众：开发者、平台工程师、技术负责人等）
+* 11日: [AI Context Series: Singapore](https://www.containerdays.io/past-events/) - 新加坡🇸🇬（约 200+ 技术观众；受众：开发者、平台工程师、技术负责人等）
 * 18-19日 [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - 印度🇮🇳孟买
 * 25日: 第21届开源中国开源世界高峰论坛（OCOW: Open Source China Open Source World）- 北京·中关村展示中心 09:00-17:30
 * 26-27日: [AICon Shanghai 2026](https://aicon.infoq.cn/2026/shanghai/track) - 中国🇨🇳上海虹桥祥源希尔顿酒店
