@@ -28,6 +28,7 @@ TODO
 
 ### 7月
 
+* 16日: vLLM Meetup 上海「推理的边界 — 从芯片到应用的全栈进化」- 上海·模速空间多功能厅（徐汇区龙台路199号模速空间B区三楼）13:30-17:40
 * 18日: [Vue x Vite 开发者大会 2026](https://vueconf.cn/) - 中国🇨🇳上海
 * 28-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) 日本🇯🇵横滨
   * 28日（周二）: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/) ArgoCon + KeyCloakCon 
@@ -38,8 +39,8 @@ TODO
 
 ### 9月
 
-* 6-7日: [MCP Dev Summit Shanghai](https://www.lfopensource.cn/mcp-dev-summit-shanghai/) - 中国🇨🇳上海（与 AAIF 同场地）
-  * [CFP](https://www.lfopensource.cn/mcp-dev-summit-shanghai/program/cfp/) 投稿截止 6月10日
+* 6-7日: [AGNTCon + MCPCon China](https://www.lfopensource.cn/mcp-dev-summit-shanghai/) [议题](https://www.lfopensource.cn/mcp-dev-summit-shanghai/program/schedule/) - 中国🇨🇳上海
+* 7日: [OSPOlogy + OSPO Summit China 2026](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/co-located-events/ospology-ospo-summit/) ([提案征集](https://sessionize.com/ospology-opso-summit-china-2026/) 截止 2026年7月12日) - 中国🇨🇳上海
 * **8-9日: [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) - 中国🇨🇳上海** 🌟
   * 2026年中国最大的云原生盛会 (The biggest cloud native event in China for 2026)
   * 将包含 PyTorch Con（包括 vLLM 和 SGlang 内容）
