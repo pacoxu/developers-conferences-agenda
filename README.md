@@ -18,14 +18,6 @@ TODO
 
 <img width="1247" height="699" alt="image" src="https://github.com/user-attachments/assets/64a998f6-a41a-489a-82e3-4716f94c4288" />
 
-### 6月
-
-* 6日: [Hong Kong Open Source Conference (HKOSCon) 2026](https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42) ([CFP](https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42)) - 香港🇭🇰
-* 11日: [AI Context Series: Singapore](https://www.containerdays.io/past-events/) - 新加坡🇸🇬（约 200+ 技术观众；受众：开发者、平台工程师、技术负责人等）
-* 18-19日 [KubeCon + CloudNativeCon 印度 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-india-2026/) - 印度🇮🇳孟买
-* 25日: 第21届开源中国开源世界高峰论坛（OCOW: Open Source China Open Source World）- 北京·中关村展示中心 09:00-17:30
-* 26-27日: [AICon Shanghai 2026](https://aicon.infoq.cn/2026/shanghai/track) - 中国🇨🇳上海虹桥祥源希尔顿酒店
-
 ### 7月
 
 * 16日: vLLM Meetup 上海「推理的边界 — 从芯片到应用的全栈进化」- 上海·模速空间多功能厅（徐汇区龙台路199号模速空间B区三楼）13:30-17:40
