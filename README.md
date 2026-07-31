@@ -18,14 +18,6 @@ TODO
 
 <img width="1247" height="699" alt="image" src="https://github.com/user-attachments/assets/64a998f6-a41a-489a-82e3-4716f94c4288" />
 
-### 7月
-
-* 16日: vLLM Meetup 上海「推理的边界 — 从芯片到应用的全栈进化」- 上海·模速空间多功能厅（徐汇区龙台路199号模速空间B区三楼）13:30-17:40
-* 18日: [Vue x Vite 开发者大会 2026](https://vueconf.cn/) - 中国🇨🇳上海
-* 19日: [2026 FIFA 世界杯决赛](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026) - 美国🇺🇸纽约/新泽西（MetLife Stadium / New York New Jersey Stadium）15:00 EDT / 7月20日 03:00 北京时间 😊
-* 28-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) 日本🇯🇵横滨
-  * 28日（周二）: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/) ArgoCon + KeyCloakCon 
-
 ### 8月
 
 * 7-9日: [Community Over Code Asia 2026](https://communityovercode.org/) - 北京市海淀区中关村国家自主创新示范区会议中心
