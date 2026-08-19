@@ -21,6 +21,7 @@ TODO
 ### 8月
 
 * 7-9日: [Community Over Code Asia 2026](https://communityovercode.org/) - 北京市海淀区中关村国家自主创新示范区会议中心
+* 23日（周日）: [vLLM Meetup 深圳](https://vllm.ai/events) - 深圳·深圳湾万丽酒店 三层宴会厅 AB 14:00–17:45（13:30 开始签到，线下免费，限额 120 席）
 
 ### 9月
 
@@ -49,7 +50,8 @@ TODO
 
 ### 12月
 
-* 7-9日: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan-2026/) - 日本🇯🇵
+* 7-9日: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan-2026/) + [Open Networking & Edge Summit (ONE Summit)](https://events.linuxfoundation.org/open-source-summit-japan-2026/) - 日本🇯🇵东京
+  * [CFP](https://sessionize.com/open-source-summit-japan-2026/) 截止 8月24日
 
 ## 2027
 
@@ -59,6 +61,7 @@ TODO
 ### 3月
 
 * 15-18: [KubeCon + CloudNativeCon 欧洲 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/) - 西班牙🇪🇸巴塞罗那
+  * [CFP](https://sessionize.com/kubecon-cloudnativecon-europe-2027/) 已开启，截止 2026年10月11日
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/co-located-events/) - 包括各 CNCF 项目专场、SIG 会议、Observability Day、GitOps Summit 等
 
 ### 10月
