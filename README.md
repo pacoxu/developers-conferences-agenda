@@ -46,7 +46,7 @@ TODO
   * CFP 已截止（5月31日）
   * [Co-located Events CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/co-located-events/) 刚开启，截止 6月21日
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/co-located-events/) - 包括各 CNCF 项目专场、SIG 会议、Observability Day、GitOps Summit 等
-* 待定： [KCD 杭州](https://www.cncf.io/blog/2026/02/25/announcing-h2-2026-kcds/)  
+* 待定：[KCD 杭州 2026](https://mp.weixin.qq.com/s/2AqIdvZmUHdG5-F1nVvbeA)（[CFP](https://sessionize.com/kcd-hangzhou-2026/) 截止 9月30日）- 杭州
 
 ### 12月
 
