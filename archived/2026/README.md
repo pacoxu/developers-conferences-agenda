@@ -54,6 +54,11 @@
 * 28-30日：[KubeCon + CloudNativeCon 日本 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan-2026/) 日本🇯🇵横滨
   * 28日（周二）: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/) ArgoCon + KeyCloakCon
 
+### 8月
+
+* 7-9日: [Community Over Code Asia 2026](https://communityovercode.org/) - 北京市海淀区中关村国家自主创新示范区会议中心
+* 23日（周日）: [vLLM Meetup 深圳](https://vllm.ai/events) - 深圳·深圳湾万丽酒店 三层宴会厅 AB 14:00–17:45（13:30 开始签到，线下免费，限额 120 席）
+
 ## 其他链接
 
 - [返回主页](../../README.md)
