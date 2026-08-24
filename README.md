@@ -18,11 +18,6 @@ TODO
 
 <img width="1247" height="699" alt="image" src="https://github.com/user-attachments/assets/64a998f6-a41a-489a-82e3-4716f94c4288" />
 
-### 8月
-
-* 7-9日: [Community Over Code Asia 2026](https://communityovercode.org/) - 北京市海淀区中关村国家自主创新示范区会议中心
-* 23日（周日）: [vLLM Meetup 深圳](https://vllm.ai/events) - 深圳·深圳湾万丽酒店 三层宴会厅 AB 14:00–17:45（13:30 开始签到，线下免费，限额 120 席）
-
 ### 9月
 
 * 5日（周六）: [🐍 PyCon China 2026](https://www.huodongxing.com/event/6870624098800) - 上海长宁·上海对外经贸大学古北校区综合楼 09:00-17:30
