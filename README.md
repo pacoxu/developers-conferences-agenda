@@ -46,7 +46,6 @@ TODO
 ### 12月
 
 * 7-9日: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan-2026/) + [Open Networking & Edge Summit (ONE Summit)](https://events.linuxfoundation.org/open-source-summit-japan-2026/) - 日本🇯🇵东京
-  * [CFP](https://sessionize.com/open-source-summit-japan-2026/) 截止 8月24日
 
 ## 2027
 
