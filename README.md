@@ -18,15 +18,6 @@ TODO
 
 <img width="1247" height="699" alt="image" src="https://github.com/user-attachments/assets/64a998f6-a41a-489a-82e3-4716f94c4288" />
 
-### 9月
-
-* 5日（周六）: [🐍 PyCon China 2026](https://www.huodongxing.com/event/6870624098800) - 上海长宁·上海对外经贸大学古北校区综合楼 09:00-17:30
-* 6-7日: [AGNTCon + MCPCon China](https://www.lfopensource.cn/mcp-dev-summit-shanghai/) [议题](https://www.lfopensource.cn/mcp-dev-summit-shanghai/program/schedule/) - 中国🇨🇳上海
-* 7日: [OSPOlogy + OSPO Summit China 2026](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/co-located-events/ospology-ospo-summit/) ([提案征集](https://sessionize.com/ospology-opso-summit-china-2026/) 截止 2026年7月12日) - 中国🇨🇳上海
-* **8-9日: [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) - 中国🇨🇳上海** 🌟
-  * 2026年中国最大的云原生盛会 (The biggest cloud native event in China for 2026)
-  * 将包含 PyTorch Con（包括 vLLM 和 SGlang 内容）
-
 ### 10月
 
 * 7-9日: [Open Source Summit Europe 2026](https://events.linuxfoundation.org/open-source-summit-europe-2026/) - 布拉格，捷克🇨🇿
@@ -54,6 +45,7 @@ TODO
 
 ### 3月
 
+* 15-18日: [NVIDIA GTC 2027](https://www.nvidia.com/gtc/) - 美国圣何塞
 * 15-18: [KubeCon + CloudNativeCon 欧洲 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/) - 西班牙🇪🇸巴塞罗那
   * [CFP](https://sessionize.com/kubecon-cloudnativecon-europe-2027/) 已开启，截止 2026年10月11日
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/co-located-events/) - 包括各 CNCF 项目专场、SIG 会议、Observability Day、GitOps Summit 等

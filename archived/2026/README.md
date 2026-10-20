@@ -59,6 +59,15 @@
 * 7-9日: [Community Over Code Asia 2026](https://communityovercode.org/) - 北京市海淀区中关村国家自主创新示范区会议中心
 * 23日（周日）: [vLLM Meetup 深圳](https://vllm.ai/events) - 深圳·深圳湾万丽酒店 三层宴会厅 AB 14:00–17:45（13:30 开始签到，线下免费，限额 120 席）
 
+### 9月
+
+* 5日（周六）: [🐍 PyCon China 2026](https://www.huodongxing.com/event/6870624098800) - 上海长宁·上海对外经贸大学古北校区综合楼 09:00-17:30
+* 6-7日: [AGNTCon + MCPCon China](https://www.lfopensource.cn/mcp-dev-summit-shanghai/) [议题](https://www.lfopensource.cn/mcp-dev-summit-shanghai/program/schedule/) - 中国🇨🇳上海
+* 7日: [OSPOlogy + OSPO Summit China 2026](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/co-located-events/ospology-ospo-summit/) ([提案征集](https://sessionize.com/ospology-opso-summit-china-2026/) 截止 2026年7月12日) - 中国🇨🇳上海
+* **8-9日: [KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) - 中国🇨🇳上海** 🌟
+  * 2026年中国最大的云原生盛会 (The biggest cloud native event in China for 2026)
+  * 将包含 PyTorch Con（包括 vLLM 和 SGlang 内容）
+
 ## 其他链接
 
 - [返回主页](../../README.md)
