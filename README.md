@@ -37,6 +37,7 @@ TODO
 ### 12月
 
 * 7-9日: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan-2026/) + [Open Networking & Edge Summit (ONE Summit)](https://events.linuxfoundation.org/open-source-summit-japan-2026/) - 日本🇯🇵东京
+* 12日: [PyTorch Day China](https://www.lfopensource.cn/pytorch-day-china/) - 中国🇨🇳北京
 
 ## 2027
 
@@ -51,9 +52,22 @@ TODO
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/co-located-events/) - 包括各 CNCF 项目专场、SIG 会议、Observability Day、GitOps Summit 等
 * 日期待定: [KCD Beijing 2027](https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds/) - 北京
 
+### 4月
+
+* 28-29日: [AGNTCon + MCPCon 北美 2027](https://events.linuxfoundation.org/agntcon-mcpcon-north-america-2027/) - 美国🇺🇸旧金山
+
+### 8月
+
+* 25-26日: [KubeCon + CloudNativeCon 日本 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) - 日本🇯🇵横滨
+
+### 9月
+
+* 20-22日: [Open Source Summit Europe 2027](https://events.linuxfoundation.org/open-source-summit-europe-2027/) - 英国🇬🇧格拉斯哥
+
 ### 10月
 
 * 6-7日: [PyTorch Conference 2027](https://events.linuxfoundation.org/pytorch-conference-2027/) - 美国🇺🇸圣何塞
+* 14-15日: [Open Source Summit Korea 2027](https://events.linuxfoundation.org/open-source-summit-korea/) - 韩国🇰🇷首尔
 
 ### 11月
 
