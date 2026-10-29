@@ -18,21 +18,11 @@ TODO
 
 <img width="1247" height="699" alt="image" src="https://github.com/user-attachments/assets/64a998f6-a41a-489a-82e3-4716f94c4288" />
 
-### 10月
-
-* 7-9日: [Open Source Summit Europe 2026](https://events.linuxfoundation.org/open-source-summit-europe-2026/) - 布拉格，捷克🇨🇿
-* 20-21日: [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/) - 美国🇺🇸圣何塞
-  * [CFP](https://events.linuxfoundation.org/pytorch-conference-north-america/program/cfp/) 截止6月7日 
-* 22-23日: [AGNTCon + MCPCon](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/) - 美国🇺🇸圣何塞
-* 27-28日: [ContainerDays & AI Context Singapore](https://www.containerdays.io/containerdays-singapore-2026/) - 新加坡🇸🇬Suntec Singapore（预计 1,000+ 参会者）
-
 ### 11月
 
-* 9-12日: [KubeCon + CloudNativeCon 北美 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) - 美国🇺🇸盐湖城
-  * CFP 已截止（5月31日）
-  * [Co-located Events CFP](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/co-located-events/) 刚开启，截止 6月21日
-  * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/co-located-events/) - 包括各 CNCF 项目专场、SIG 会议、Observability Day、GitOps Summit 等
-* 28日：[KCD 杭州 2026](https://mp.weixin.qq.com/s/2AqIdvZmUHdG5-F1nVvbeA)（[CFP](https://sessionize.com/kcd-hangzhou-2026/) 截止 9月30日）- 杭州
+* 9-12日: [KubeCon + CloudNativeCon 北美 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) [议题](https://kubecon-cloudnativecon-north-america-2026.sessionize.com/schedule) - 美国🇺🇸盐湖城
+  * 11月9日同场 [CNCF-hosted Co-located Events](https://cncf-hosted-co-located-events-north-america-2026.sessionize.com/schedule)：Agentics Day (MCP + Agents)、ArgoCon、BackstageCon、CiliumCon、Cloud Native AI + Inference Day、FluxCon、Kubernetes on Edge Day、Observability Day、Open Source SecurityCon、OpenTofu Day、Platform Engineering Day
+* 28日：[KCD 杭州 2026](https://mp.weixin.qq.com/s/2AqIdvZmUHdG5-F1nVvbeA) - 杭州（议题即将公布）
 
 ### 12月
 

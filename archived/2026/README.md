@@ -68,6 +68,14 @@
   * 2026年中国最大的云原生盛会 (The biggest cloud native event in China for 2026)
   * 将包含 PyTorch Con（包括 vLLM 和 SGlang 内容）
 
+### 10月
+
+* 7-9日: [Open Source Summit Europe 2026](https://events.linuxfoundation.org/open-source-summit-europe-2026/) - 布拉格，捷克🇨🇿
+* 20-21日: [PyTorch Conference 2026](https://events.linuxfoundation.org/pytorch-conference-2026/) - 美国🇺🇸圣何塞
+  * [CFP](https://events.linuxfoundation.org/pytorch-conference-north-america/program/cfp/) 截止6月7日 
+* 22-23日: [AGNTCon + MCPCon](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/) - 美国🇺🇸圣何塞
+* 27-28日: [ContainerDays & AI Context Singapore](https://www.containerdays.io/containerdays-singapore-2026/) - 新加坡🇸🇬Suntec Singapore（预计 1,000+ 参会者）
+
 ## 其他链接
 
 - [返回主页](../../README.md)
