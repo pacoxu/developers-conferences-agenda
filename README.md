@@ -37,7 +37,10 @@ TODO
 ### 12月
 
 * 7-9日: [Open Source Summit Japan 2026](https://events.linuxfoundation.org/open-source-summit-japan-2026/) + [Open Networking & Edge Summit (ONE Summit)](https://events.linuxfoundation.org/open-source-summit-japan-2026/) - 日本🇯🇵东京
-* 12日: [PyTorch Day China](https://www.lfopensource.cn/pytorch-day-china/) - 中国🇨🇳北京
+* 12日: [PyTorch Day China 2026](https://www.lfopensource.cn/pytorch-day-china/) - 中国🇨🇳北京·阿里巴巴北京朝阳科技园B区
+  * PyTorch 基金会与阿里云、AMD 联合主办（涵盖 PyTorch、vLLM、DeepSpeed、Ray）
+  * [提案征集 CFP](https://www.lfopensource.cn/pytorch-day-china/program/call-for-proposals/) 已开启，截止 11月17日
+  * 早鸟票 11月10日开放；议程公布 11月18日；PPT 截止 12月8日
 
 ## 2027
 
