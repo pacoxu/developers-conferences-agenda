@@ -22,7 +22,7 @@ TODO
 
 * 9-12日: [KubeCon + CloudNativeCon 北美 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) [议题](https://kubecon-cloudnativecon-north-america-2026.sessionize.com/schedule) - 美国🇺🇸盐湖城
   * 11月9日同场 [CNCF-hosted Co-located Events](https://cncf-hosted-co-located-events-north-america-2026.sessionize.com/schedule)：Agentics Day (MCP + Agents)、ArgoCon、BackstageCon、CiliumCon、Cloud Native AI + Inference Day、FluxCon、Kubernetes on Edge Day、Observability Day、Open Source SecurityCon、OpenTofu Day、Platform Engineering Day
-* 28日：[KCD 杭州 2026](https://mp.weixin.qq.com/s/2AqIdvZmUHdG5-F1nVvbeA) - 杭州（议题即将公布）
+* 28日：[KCD 杭州 2026](https://sessionize.com/view/9wf3k38o/GridSmart?format=Embed_Styled_Html&isDark=False&title=KCD%20Hangzhou%202026) - 杭州云谷中心
 
 ### 12月
 
