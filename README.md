@@ -49,6 +49,10 @@ TODO
 
 * 28-29日: [AGNTCon + MCPCon 北美 2027](https://events.linuxfoundation.org/agntcon-mcpcon-north-america-2027/) - 美国🇺🇸旧金山
 
+### 5月
+
+* 12-13日: [KubeCon + CloudNativeCon 中国 2027（Open Nexus China）](https://www.lfopensource.cn/open-nexus-china/) - 中国🇨🇳上海
+
 ### 8月
 
 * 25-26日: [KubeCon + CloudNativeCon 日本 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) - 日本🇯🇵横滨
