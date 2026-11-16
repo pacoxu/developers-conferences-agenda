@@ -47,6 +47,7 @@
 | 2027 | India | India 2027 (Open Nexus India) | Bengaluru, India | [9–10 Sep 2027](https://events.linuxfoundation.org/open-nexus-india/) |
 | 2027 | NA | North America 2027 | New Orleans, USA | [8–11 Nov 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) |
 | 2028 | EU | Europe 2028 | Berlin, Germany | [24–27 Apr 2028](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/) |
+| 2028 | NA | North America 2028 | Denver, USA | [11–14 Dec 2028](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2028/) |
 
 ## 2026 CFP 信息
 
@@ -75,7 +76,7 @@
 
 ## 统计信息
 
-- **会议总数**: 41 场（截至 2028 年已公布的会议）
+- **会议总数**: 42 场（截至 2028 年已公布的会议）
 - **首届会议**: 2015 年 11 月，美国旧金山
 - **举办城市**: 遍布全球各主要城市
 - **区域分布**: 北美、欧洲、中国、印度、日本
