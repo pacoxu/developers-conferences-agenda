@@ -59,6 +59,7 @@ TODO
 
 ### 9月
 
+* 9-10日: [Open Nexus India 2027（含 KubeCon + CloudNativeCon）](https://events.linuxfoundation.org/open-nexus-india/) - 印度🇮🇳班加罗尔
 * 20-22日: [Open Source Summit Europe 2027](https://events.linuxfoundation.org/open-source-summit-europe-2027/) - 英国🇬🇧格拉斯哥
 
 ### 10月
@@ -68,7 +69,7 @@ TODO
 
 ### 11月
 
-* 8-11日: [KubeCon + CloudNativeCon 北美 2027](https://events.linuxfoundation.org/) - 美国🇺🇸新奥尔良
+* 8-11日: [KubeCon + CloudNativeCon 北美 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) - 美国🇺🇸新奥尔良
 
 ## 2028
 
@@ -78,7 +79,7 @@ TODO
 
 # 其他链接
 
-- [Linux Foundation Events](https://events.linuxfoundation.org/): 包括 CNCF，PyTorch 基金会活动
+- [Linux Foundation 2026-2027 活动日历](https://events.linuxfoundation.org/about/calendar/): 包括 CNCF、PyTorch 基金会等活动
 - [Developer conferences in China 2025 / 2026](https://dev.events/AS/CN)
 - developers.events 包含很多国际会议和各地会议
 - [KCD 中国往届视频](https://space.bilibili.com/1274679632/lists?sid=2842495)
