@@ -43,7 +43,7 @@ TODO
 * 15-18: [KubeCon + CloudNativeCon 欧洲 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/) - 西班牙🇪🇸巴塞罗那
   * [CFP](https://sessionize.com/kubecon-cloudnativecon-europe-2027/) 已开启，截止 2026年10月11日
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/co-located-events/) - 包括各 CNCF 项目专场、SIG 会议、Observability Day、GitOps Summit 等
-* 日期待定: [KCD Beijing 2027](https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds/) - 北京
+* 20日: [KCD Beijing 2027](https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds/) - 北京
 
 ### 4月
 
@@ -76,6 +76,10 @@ TODO
 ### 4月
 
 * 24-27日: [KubeCon + CloudNativeCon 欧洲 2028](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/) - 德国🇩🇪柏林
+
+### 12月
+
+* 11-14日: [KubeCon + CloudNativeCon 北美 2028](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2028/) - 美国🇺🇸丹佛
 
 # 其他链接
 
