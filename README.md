@@ -34,7 +34,7 @@ TODO
 
 ## 2027
 
-<img width="1242" height="555" alt="image" src="https://github.com/user-attachments/assets/6ba3dbd8-6a1a-46a0-a89a-2e2eae2fcea9" />
+<img width="1247" height="703" alt="KubeCon + CloudNativeCon 2027 lineup" src="./assets/kubecon-2027-lineup.png" />
 
 
 ### 3月
