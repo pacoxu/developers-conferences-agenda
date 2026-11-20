@@ -52,6 +52,8 @@ TODO
 ### 5月
 
 * 12-13日: [KubeCon + CloudNativeCon 中国 2027（Open Nexus China）](https://www.lfopensource.cn/open-nexus-china/) - 中国🇨🇳上海
+  * [CFP 投稿](https://sessionize.com/open-nexus-china-2027/) 已开启（2026年11月18日），截止 2027年1月10日 23:59（中国标准时间 UTC+08:00）
+  * CFP 通知：2027年2月15日；议程公布：2027年2月17日
 
 ### 8月
 
