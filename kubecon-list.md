@@ -56,6 +56,10 @@
 - **KubeCon China 2026**: 将包含 PyTorch Con（包括 vLLM 和 SGlang 内容），CFP 2025年三月底开启
 - **KubeCon North America 2026**: [议题](https://kubecon-cloudnativecon-north-america-2026.sessionize.com/schedule)；11月9日 [CNCF-hosted Co-located Events](https://cncf-hosted-co-located-events-north-america-2026.sessionize.com/schedule)（Agentics Day、ArgoCon、BackstageCon、CiliumCon、Cloud Native AI + Inference Day、FluxCon、Kubernetes on Edge Day、Observability Day、Open Source SecurityCon、OpenTofu Day、Platform Engineering Day）
 
+## 2027 CFP 信息
+
+- **KubeCon China 2027（Open Nexus China）**: [CFP](https://sessionize.com/open-nexus-china-2027/) 于 2026年11月18日开启，截止 2027年1月10日 23:59（中国标准时间 UTC+08:00）；通知日期为 2027年2月15日，议程公布日期为 2027年2月17日。会议日期：2027年5月12–13日。
+
 ## 说明
 
 - **区域缩写**：
