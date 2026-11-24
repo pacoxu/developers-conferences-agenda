@@ -42,10 +42,10 @@
 | 2026 | China | OpenInfra Summit Asia China 2026 | Shanghai, China | 8–9 Sep 2026 |
 | 2026 | NA | North America 2026 | Salt Lake City, USA | [9–12 Nov 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/?utm_source=chatgpt.com) |
 | 2027 | EU | Europe 2027 | Barcelona, Spain | [15–18 Mar 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) |
-| 2027 | China | China 2027 (Open Nexus China) | Shanghai, China | [12–13 May 2027](https://www.lfopensource.cn/open-nexus-china/) |
-| 2027 | Japan | Japan 2027 | Yokohama, Japan | [25–26 Aug 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) |
+| 2027 | China | Open Nexus China 2027 (AGNTSummit, KubeCon + CloudNativeCon, PyTorch Conference) | Shanghai, China | [12–13 May 2027](https://www.lfopensource.cn/open-nexus-china/) |
+| 2027 | Japan | KubeCon + CloudNativeCon Japan 2027 | Yokohama, Japan | [25–26 Aug 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) |
 | 2027 | India | India 2027 (Open Nexus India) | Bengaluru, India | [9–10 Sep 2027](https://events.linuxfoundation.org/open-nexus-india/) |
-| 2027 | NA | North America 2027 | New Orleans, USA | [8–11 Nov 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) |
+| 2027 | NA | KubeCon + CloudNativeCon North America 2027 | New Orleans, USA | [8–11 Nov 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) |
 | 2028 | EU | Europe 2028 | Berlin, Germany | [24–27 Apr 2028](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/) |
 | 2028 | NA | North America 2028 | Denver, USA | [11–14 Dec 2028](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2028/) |
 
@@ -58,7 +58,8 @@
 
 ## 2027 CFP 信息
 
-- **KubeCon China 2027（Open Nexus China）**: [CFP](https://sessionize.com/open-nexus-china-2027/) 于 2026年11月18日开启，截止 2027年1月10日 23:59（中国标准时间 UTC+08:00）；通知日期为 2027年2月15日，议程公布日期为 2027年2月17日。会议日期：2027年5月12–13日。
+- **KubeCon + CloudNativeCon Europe 2027**: [CFP](https://sessionize.com/kubecon-cloudnativecon-europe-2027/) 截止 2026年10月11日；通知日期为 2026年12月7日，议程公布日期为 2026年12月9日。会议日期：2027年3月15–18日。
+- **Open Nexus China 2027**（汇聚 AGNTSummit、KubeCon + CloudNativeCon、PyTorch Conference）: [CFP](https://sessionize.com/open-nexus-china-2027/) 于 2026年11月18日开启，截止 2027年1月10日 23:59（中国标准时间 UTC+08:00）；通知日期为 2027年2月15日，议程公布日期为 2027年2月17日。会议日期：2027年5月12–13日。
 
 ## 说明
 

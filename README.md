@@ -22,7 +22,7 @@ TODO
 
 * 9-12日: [KubeCon + CloudNativeCon 北美 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) [议题](https://kubecon-cloudnativecon-north-america-2026.sessionize.com/schedule) - 美国🇺🇸盐湖城
   * 11月9日同场 [CNCF-hosted Co-located Events](https://cncf-hosted-co-located-events-north-america-2026.sessionize.com/schedule)：Agentics Day (MCP + Agents)、ArgoCon、BackstageCon、CiliumCon、Cloud Native AI + Inference Day、FluxCon、Kubernetes on Edge Day、Observability Day、Open Source SecurityCon、OpenTofu Day、Platform Engineering Day
-* 28日：[KCD 杭州 2026](https://sessionize.com/view/9wf3k38o/GridSmart?format=Embed_Styled_Html&isDark=False&title=KCD%20Hangzhou%202026) - 杭州云谷中心
+* 28日：[KCD 杭州 2026](https://mp.weixin.qq.com/s/grtWlXP-n8Qzd22eu1S4oQ) - 杭州云谷中心
 
 ### 12月
 
@@ -41,7 +41,8 @@ TODO
 
 * 15-18日: [NVIDIA GTC 2027](https://www.nvidia.com/gtc/) - 美国圣何塞
 * 15-18: [KubeCon + CloudNativeCon 欧洲 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/) - 西班牙🇪🇸巴塞罗那
-  * [CFP](https://sessionize.com/kubecon-cloudnativecon-europe-2027/) 已开启，截止 2026年10月11日
+  * [CFP](https://sessionize.com/kubecon-cloudnativecon-europe-2027/) 已截止（2026年10月11日）
+  * CFP 通知：2026年12月7日；议程公布：2026年12月9日
   * 同场 Co-located Events: [CNCF-hosted Co-located Events](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2027/co-located-events/) - 包括各 CNCF 项目专场、SIG 会议、Observability Day、GitOps Summit 等
 * 20日: [KCD Beijing 2027](https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds/) - 北京
 
@@ -51,13 +52,14 @@ TODO
 
 ### 5月
 
-* 12-13日: [KubeCon + CloudNativeCon 中国 2027（Open Nexus China）](https://www.lfopensource.cn/open-nexus-china/) - 中国🇨🇳上海
+* 12-13日: [Open Nexus China 2027（KubeCon + CloudNativeCon China、PyTorch Conference、AGNTSummit）](https://www.lfopensource.cn/open-nexus-china/) - 中国🇨🇳上海
   * [CFP 投稿](https://sessionize.com/open-nexus-china-2027/) 已开启（2026年11月18日），截止 2027年1月10日 23:59（中国标准时间 UTC+08:00）
   * CFP 通知：2027年2月15日；议程公布：2027年2月17日
+  * 举办时间：2027年5月12-13日
 
 ### 8月
 
-* 25-26日: [KubeCon + CloudNativeCon 日本 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) - 日本🇯🇵横滨
+* 25-26日: [KubeCon + CloudNativeCon 日本 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) - 日本🇯🇵横滨（2027年8月25-26日）
 
 ### 9月
 
@@ -71,7 +73,7 @@ TODO
 
 ### 11月
 
-* 8-11日: [KubeCon + CloudNativeCon 北美 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) - 美国🇺🇸新奥尔良
+* 8-11日: [KubeCon + CloudNativeCon 北美 2027](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) - 美国🇺🇸新奥尔良（2027年11月8-11日）
 
 ## 2028
 
